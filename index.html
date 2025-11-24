@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Portfólio de Dados - Customer Experience</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background-color: #f4f4f4; }
+        header { background-color: #0f172a; color: white; padding: 20px; text-align: center; border-radius: 8px; }
+        h1 { margin: 0; }
+        .container { max-width: 1200px; margin: 20px auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        .dashboard-container { margin-top: 20px; height: 800px; }
+        .tech-stack { margin-top: 20px; padding: 15px; background-color: #e0f2fe; border-radius: 5px; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Projeto de Customer Experience Analytics</h1>
+        <p>Pipeline Completo: Python ETL • SQL (Supabase) • Tableau</p>
+    </header>
+
+    <div class="container">
+        <h2>Sobre o Projeto</h2>
+        <p>Este painel apresenta a análise de NPS (Net Promoter Score) e Satisfação do Cliente de uma empresa fictícia.
+           Os dados foram gerados via Python, processados em banco de dados SQL na nuvem e visualizados neste dashboard interativo.</p>
+
+        <div class="tech-stack">
+            <strong>Tecnologias usadas:</strong> Python (Pandas, SQLAlchemy), PostgreSQL (Supabase), Tableau Public e HTML/CSS.
+        </div>
+
+        <div class="dashboard-container" id="vizContainer"></div>
+    </div>
+
+    <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+    <script type="text/javascript">
+        var divElement = document.getElementById('vizContainer');
+        
+        
+        var url = "https://public.tableau.com/views/CaseNPS-CustomerExperience/Painel1";
+        
+        var viz = new tableau.Viz(divElement, url, { width: '100%', height: '800px'});
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,1001 @@
+id_resposta,data_pesquisa,canal,nps,nota_satisfacao,regiao,idade,genero,recompraria,comentario
+1,2024-10-29 22:00:00,Call Center,1,3,Norte,42,M,True,Comentário simulado 1
+2,2024-02-05 20:00:00,Call Center,10,3,Sul,29,Outro,True,Comentário simulado 2
+3,2024-08-12 14:00:00,Site,8,1,Sul,43,M,True,Comentário simulado 3
+4,2024-08-04 07:00:00,App,9,3,Nordeste,55,Outro,False,Comentário simulado 4
+5,2024-08-26 22:00:00,Site,4,2,Sudeste,63,Outro,True,Comentário simulado 5
+6,2024-09-18 01:00:00,Site,6,4,Norte,29,M,True,Comentário simulado 6
+7,2024-01-20 10:00:00,App,10,4,Nordeste,60,M,True,Comentário simulado 7
+8,2024-07-03 10:00:00,Loja Física,10,4,Centro-Oeste,68,M,True,Comentário simulado 8
+9,2024-08-20 10:00:00,Loja Física,1,2,Centro-Oeste,70,F,False,Comentário simulado 9
+10,2024-12-12 18:00:00,Site,8,3,Nordeste,54,Outro,True,Comentário simulado 10
+11,2024-03-11 05:00:00,Loja Física,8,5,Norte,63,F,False,Comentário simulado 11
+12,2024-02-02 01:00:00,App,3,3,Nordeste,70,M,True,Comentário simulado 12
+13,2024-10-16 13:00:00,Loja Física,3,1,Norte,41,Outro,False,Comentário simulado 13
+14,2024-04-11 09:00:00,Call Center,5,4,Sul,33,F,True,Comentário simulado 14
+15,2024-08-09 07:00:00,App,9,3,Nordeste,30,Outro,False,Comentário simulado 15
+16,2024-07-29 11:00:00,Site,9,5,Norte,42,F,True,Comentário simulado 16
+17,2024-09-24 12:00:00,Loja Física,9,1,Nordeste,69,M,True,Comentário simulado 17
+18,2024-02-19 08:00:00,Site,5,2,Nordeste,21,F,True,Comentário simulado 18
+19,2024-07-08 19:00:00,Site,0,2,Norte,28,Outro,True,Comentário simulado 19
+20,2024-05-21 01:00:00,Loja Física,8,5,Norte,49,Outro,False,Comentário simulado 20
+21,2024-09-23 12:00:00,Site,1,1,Sudeste,66,Outro,True,Comentário simulado 21
+22,2024-12-27 02:00:00,Loja Física,4,4,Nordeste,24,Outro,True,Comentário simulado 22
+23,2024-04-16 14:00:00,Site,8,3,Centro-Oeste,63,M,True,Comentário simulado 23
+24,2024-11-23 01:00:00,Loja Física,3,1,Nordeste,28,F,True,Comentário simulado 24
+25,2024-03-26 07:00:00,Site,10,2,Nordeste,45,M,True,Comentário simulado 25
+26,2024-04-24 11:00:00,Call Center,2,5,Norte,58,M,True,Comentário simulado 26
+27,2024-01-08 21:00:00,Loja Física,6,5,Nordeste,40,M,True,Comentário simulado 27
+28,2024-04-23 22:00:00,Site,5,3,Nordeste,62,Outro,False,Comentário simulado 28
+29,2024-05-05 05:00:00,App,7,5,Centro-Oeste,40,Outro,True,Comentário simulado 29
+30,2024-07-13 02:00:00,Call Center,2,5,Norte,67,Outro,True,Comentário simulado 30
+31,2024-03-20 03:00:00,App,4,1,Nordeste,45,F,False,Comentário simulado 31
+32,2024-11-18 06:00:00,Site,9,4,Sul,60,Outro,True,Comentário simulado 32
+33,2024-02-22 19:00:00,App,3,3,Sudeste,64,F,True,Comentário simulado 33
+34,2024-03-04 16:00:00,App,3,1,Centro-Oeste,43,Outro,True,Comentário simulado 34
+35,2024-05-28 04:00:00,Loja Física,3,4,Nordeste,42,Outro,True,Comentário simulado 35
+36,2024-06-11 02:00:00,App,9,1,Sul,46,M,True,Comentário simulado 36
+37,2024-08-12 17:00:00,App,7,1,Nordeste,36,M,False,Comentário simulado 37
+38,2024-12-17 09:00:00,Site,5,5,Nordeste,50,M,True,Comentário simulado 38
+39,2024-11-09 01:00:00,App,2,4,Norte,53,F,True,Comentário simulado 39
+40,2024-04-18 20:00:00,App,9,3,Norte,31,F,False,Comentário simulado 40
+41,2024-10-20 09:00:00,Site,4,3,Norte,31,Outro,False,Comentário simulado 41
+42,2024-09-16 19:00:00,Call Center,5,4,Sul,52,F,True,Comentário simulado 42
+43,2024-08-16 14:00:00,App,4,5,Nordeste,47,Outro,True,Comentário simulado 43
+44,2024-10-22 19:00:00,App,5,2,Sudeste,45,F,True,Comentário simulado 44
+45,2024-02-02 07:00:00,Loja Física,7,1,Centro-Oeste,34,F,False,Comentário simulado 45
+46,2024-12-08 18:00:00,App,6,5,Norte,20,F,False,Comentário simulado 46
+47,2024-05-11 08:00:00,Loja Física,4,4,Norte,33,M,True,Comentário simulado 47
+48,2024-03-07 01:00:00,App,9,1,Nordeste,63,F,True,Comentário simulado 48
+49,2024-06-13 07:00:00,Site,5,3,Nordeste,47,M,True,Comentário simulado 49
+50,2024-11-10 19:00:00,App,3,2,Sul,69,M,False,Comentário simulado 50
+51,2024-05-08 01:00:00,App,8,3,Sul,46,F,True,Comentário simulado 51
+52,2024-02-12 13:00:00,Loja Física,3,4,Norte,62,Outro,True,Comentário simulado 52
+53,2024-06-09 03:00:00,Site,0,1,Nordeste,32,Outro,False,Comentário simulado 53
+54,2024-11-28 21:00:00,Site,6,4,Sudeste,63,Outro,True,Comentário simulado 54
+55,2024-10-13 09:00:00,Site,6,1,Centro-Oeste,42,F,True,Comentário simulado 55
+56,2024-08-24 11:00:00,Site,3,5,Nordeste,68,Outro,True,Comentário simulado 56
+57,2024-01-07 17:00:00,Loja Física,2,2,Nordeste,55,M,True,Comentário simulado 57
+58,2024-06-28 01:00:00,Site,7,5,Sul,59,Outro,True,Comentário simulado 58
+59,2024-02-11 11:00:00,App,4,5,Centro-Oeste,64,F,True,Comentário simulado 59
+60,2024-11-13 21:00:00,App,9,4,Norte,70,Outro,True,Comentário simulado 60
+61,2024-02-12 08:00:00,App,6,2,Nordeste,69,M,False,Comentário simulado 61
+62,2024-11-23 21:00:00,Loja Física,3,1,Norte,55,F,True,Comentário simulado 62
+63,2024-09-25 07:00:00,App,3,1,Nordeste,40,Outro,True,Comentário simulado 63
+64,2024-11-24 20:00:00,Loja Física,7,3,Norte,42,F,True,Comentário simulado 64
+65,2024-10-12 23:00:00,App,7,1,Centro-Oeste,59,F,False,Comentário simulado 65
+66,2024-11-25 20:00:00,Site,1,4,Sul,24,F,False,Comentário simulado 66
+67,2024-12-21 09:00:00,Call Center,1,5,Centro-Oeste,39,Outro,True,Comentário simulado 67
+68,2024-02-06 14:00:00,Site,2,5,Sudeste,34,F,True,Comentário simulado 68
+69,2024-07-22 15:00:00,Site,2,5,Sul,35,Outro,True,Comentário simulado 69
+70,2024-07-21 11:00:00,Loja Física,0,2,Centro-Oeste,66,M,True,Comentário simulado 70
+71,2024-09-20 19:00:00,Site,2,1,Sudeste,58,Outro,True,Comentário simulado 71
+72,2024-12-23 03:00:00,Loja Física,5,4,Nordeste,27,M,False,Comentário simulado 72
+73,2024-12-27 20:00:00,App,7,2,Nordeste,27,Outro,False,Comentário simulado 73
+74,2024-10-27 08:00:00,Call Center,9,3,Norte,24,F,True,Comentário simulado 74
+75,2024-08-07 20:00:00,Loja Física,5,4,Sul,65,Outro,False,Comentário simulado 75
+76,2024-03-26 22:00:00,App,4,4,Nordeste,67,F,False,Comentário simulado 76
+77,2024-01-03 16:00:00,Call Center,3,4,Sul,55,M,True,Comentário simulado 77
+78,2024-11-29 14:00:00,Site,2,5,Nordeste,44,Outro,True,Comentário simulado 78
+79,2024-04-17 00:00:00,Call Center,3,4,Norte,69,F,False,Comentário simulado 79
+80,2024-08-15 15:00:00,Site,6,1,Centro-Oeste,50,M,True,Comentário simulado 80
+81,2024-03-25 11:00:00,App,0,4,Norte,18,M,False,Comentário simulado 81
+82,2024-04-22 07:00:00,Site,6,5,Sudeste,61,Outro,False,Comentário simulado 82
+83,2024-08-07 02:00:00,App,0,4,Nordeste,70,M,True,Comentário simulado 83
+84,2024-08-22 02:00:00,Site,1,3,Sudeste,51,F,False,Comentário simulado 84
+85,2024-10-07 16:00:00,Loja Física,3,3,Sudeste,21,M,False,Comentário simulado 85
+86,2024-01-17 07:00:00,Loja Física,0,5,Sul,34,M,True,Comentário simulado 86
+87,2024-09-02 12:00:00,Call Center,10,1,Nordeste,21,F,True,Comentário simulado 87
+88,2024-05-28 09:00:00,Site,10,1,Sudeste,60,M,True,Comentário simulado 88
+89,2024-09-14 16:00:00,App,10,2,Centro-Oeste,43,M,True,Comentário simulado 89
+90,2024-05-09 03:00:00,App,8,5,Sudeste,21,M,True,Comentário simulado 90
+91,2024-09-18 14:00:00,Site,5,4,Centro-Oeste,18,M,True,Comentário simulado 91
+92,2024-12-15 16:00:00,Site,0,5,Sul,24,F,True,Comentário simulado 92
+93,2024-05-09 08:00:00,App,0,2,Sudeste,47,M,True,Comentário simulado 93
+94,2024-10-27 15:00:00,Loja Física,5,5,Norte,67,F,False,Comentário simulado 94
+95,2024-04-12 06:00:00,App,3,5,Sul,26,M,False,Comentário simulado 95
+96,2024-04-23 19:00:00,App,3,2,Centro-Oeste,52,M,False,Comentário simulado 96
+97,2024-12-05 18:00:00,Site,10,1,Sul,25,M,True,Comentário simulado 97
+98,2024-07-29 16:00:00,Site,5,4,Sudeste,41,M,False,Comentário simulado 98
+99,2024-12-03 22:00:00,Site,10,2,Nordeste,36,F,False,Comentário simulado 99
+100,2024-06-09 00:00:00,Call Center,6,3,Nordeste,53,F,True,Comentário simulado 100
+101,2024-02-12 20:00:00,Site,8,1,Centro-Oeste,67,F,True,Comentário simulado 101
+102,2024-11-03 17:00:00,Site,9,3,Centro-Oeste,69,Outro,True,Comentário simulado 102
+103,2024-01-21 22:00:00,Site,4,1,Nordeste,60,M,False,Comentário simulado 103
+104,2024-10-14 22:00:00,Loja Física,8,4,Centro-Oeste,44,M,True,Comentário simulado 104
+105,2024-10-16 02:00:00,Call Center,3,4,Sul,49,F,True,Comentário simulado 105
+106,2024-07-06 00:00:00,Loja Física,9,5,Norte,31,Outro,True,Comentário simulado 106
+107,2024-01-09 14:00:00,App,1,3,Norte,35,M,True,Comentário simulado 107
+108,2024-08-01 22:00:00,App,2,1,Sul,45,F,True,Comentário simulado 108
+109,2024-09-06 01:00:00,Site,10,4,Norte,46,M,True,Comentário simulado 109
+110,2024-11-17 17:00:00,Call Center,0,2,Sudeste,33,M,True,Comentário simulado 110
+111,2024-10-20 03:00:00,Loja Física,5,4,Sul,52,F,False,Comentário simulado 111
+112,2024-03-02 20:00:00,App,5,2,Centro-Oeste,64,F,True,Comentário simulado 112
+113,2024-11-23 10:00:00,Loja Física,0,1,Sul,48,M,True,Comentário simulado 113
+114,2024-02-05 23:00:00,Loja Física,10,4,Nordeste,21,M,True,Comentário simulado 114
+115,2024-04-26 06:00:00,App,2,4,Centro-Oeste,54,F,True,Comentário simulado 115
+116,2024-11-04 16:00:00,Call Center,4,1,Nordeste,34,M,True,Comentário simulado 116
+117,2024-12-30 19:00:00,Call Center,2,4,Centro-Oeste,56,M,True,Comentário simulado 117
+118,2024-08-01 04:00:00,App,9,2,Norte,65,F,False,Comentário simulado 118
+119,2024-09-07 19:00:00,App,2,4,Sul,63,M,False,Comentário simulado 119
+120,2024-03-14 05:00:00,Site,9,3,Sudeste,43,M,False,Comentário simulado 120
+121,2024-11-11 14:00:00,App,2,5,Centro-Oeste,65,Outro,True,Comentário simulado 121
+122,2024-09-22 14:00:00,Site,4,2,Centro-Oeste,56,F,True,Comentário simulado 122
+123,2024-10-14 04:00:00,App,4,3,Nordeste,58,Outro,False,Comentário simulado 123
+124,2024-03-10 22:00:00,Call Center,3,1,Norte,21,Outro,True,Comentário simulado 124
+125,2024-05-15 02:00:00,App,0,2,Nordeste,47,Outro,True,Comentário simulado 125
+126,2024-07-12 04:00:00,App,4,5,Nordeste,47,M,True,Comentário simulado 126
+127,2024-02-14 03:00:00,Site,9,5,Norte,39,M,True,Comentário simulado 127
+128,2024-10-04 20:00:00,Site,4,1,Sudeste,28,Outro,True,Comentário simulado 128
+129,2024-05-11 13:00:00,Loja Física,3,1,Nordeste,19,Outro,False,Comentário simulado 129
+130,2024-09-03 11:00:00,Site,5,2,Nordeste,61,Outro,True,Comentário simulado 130
+131,2024-04-22 05:00:00,Site,9,4,Centro-Oeste,29,M,True,Comentário simulado 131
+132,2024-05-31 03:00:00,App,3,1,Norte,47,Outro,False,Comentário simulado 132
+133,2024-08-15 02:00:00,Loja Física,6,4,Sul,53,Outro,False,Comentário simulado 133
+134,2024-03-10 07:00:00,Loja Física,6,3,Sudeste,35,F,True,Comentário simulado 134
+135,2024-08-21 00:00:00,Site,1,5,Sudeste,43,F,True,Comentário simulado 135
+136,2024-11-04 00:00:00,App,2,4,Norte,70,M,False,Comentário simulado 136
+137,2024-02-24 10:00:00,App,0,5,Centro-Oeste,24,F,False,Comentário simulado 137
+138,2024-10-09 08:00:00,App,7,4,Centro-Oeste,18,F,True,Comentário simulado 138
+139,2024-09-01 08:00:00,App,8,3,Norte,43,F,False,Comentário simulado 139
+140,2024-11-09 14:00:00,Site,3,1,Centro-Oeste,40,M,True,Comentário simulado 140
+141,2024-08-20 07:00:00,App,5,3,Sudeste,43,F,True,Comentário simulado 141
+142,2024-08-18 10:00:00,App,8,1,Sudeste,62,M,True,Comentário simulado 142
+143,2024-07-02 21:00:00,Loja Física,5,1,Sul,23,Outro,True,Comentário simulado 143
+144,2024-06-05 04:00:00,App,8,5,Norte,23,F,False,Comentário simulado 144
+145,2024-01-28 15:00:00,App,3,3,Nordeste,61,M,True,Comentário simulado 145
+146,2024-03-24 06:00:00,App,7,4,Nordeste,25,F,True,Comentário simulado 146
+147,2024-11-29 02:00:00,App,8,3,Sul,41,Outro,True,Comentário simulado 147
+148,2024-03-03 07:00:00,Loja Física,3,5,Sul,39,M,True,Comentário simulado 148
+149,2024-05-17 16:00:00,App,4,1,Centro-Oeste,36,M,True,Comentário simulado 149
+150,2024-06-05 19:00:00,App,7,5,Sul,54,M,True,Comentário simulado 150
+151,2024-08-06 00:00:00,Loja Física,9,2,Sul,35,Outro,True,Comentário simulado 151
+152,2024-03-18 05:00:00,App,5,2,Nordeste,48,Outro,False,Comentário simulado 152
+153,2024-10-01 09:00:00,App,6,4,Centro-Oeste,54,Outro,True,Comentário simulado 153
+154,2024-02-23 19:00:00,Loja Física,2,5,Sul,47,M,True,Comentário simulado 154
+155,2024-05-29 05:00:00,App,6,4,Sul,59,Outro,False,Comentário simulado 155
+156,2024-11-10 18:00:00,App,7,4,Centro-Oeste,50,F,True,Comentário simulado 156
+157,2024-10-30 08:00:00,Call Center,9,2,Norte,27,Outro,True,Comentário simulado 157
+158,2024-03-09 04:00:00,Site,5,4,Centro-Oeste,54,M,False,Comentário simulado 158
+159,2024-06-03 00:00:00,Site,9,2,Nordeste,29,F,True,Comentário simulado 159
+160,2024-01-30 02:00:00,Site,8,1,Norte,47,Outro,True,Comentário simulado 160
+161,2024-07-16 09:00:00,Call Center,5,5,Sudeste,44,F,True,Comentário simulado 161
+162,2024-02-05 14:00:00,Site,8,4,Centro-Oeste,56,F,True,Comentário simulado 162
+163,2024-12-06 04:00:00,Site,3,2,Nordeste,26,M,False,Comentário simulado 163
+164,2024-08-31 23:00:00,Site,7,3,Norte,38,F,True,Comentário simulado 164
+165,2024-11-04 00:00:00,Site,10,4,Centro-Oeste,29,F,False,Comentário simulado 165
+166,2024-09-29 00:00:00,Site,3,1,Sul,46,M,False,Comentário simulado 166
+167,2024-08-06 17:00:00,App,1,1,Centro-Oeste,50,M,True,Comentário simulado 167
+168,2024-08-03 12:00:00,App,9,3,Sudeste,60,M,True,Comentário simulado 168
+169,2024-03-12 03:00:00,Site,10,2,Centro-Oeste,70,F,True,Comentário simulado 169
+170,2024-08-29 07:00:00,Site,8,4,Norte,32,F,True,Comentário simulado 170
+171,2024-08-18 15:00:00,Site,4,2,Norte,19,F,True,Comentário simulado 171
+172,2024-07-24 11:00:00,Site,3,1,Centro-Oeste,69,M,False,Comentário simulado 172
+173,2024-05-26 06:00:00,App,1,2,Norte,56,Outro,False,Comentário simulado 173
+174,2024-01-09 10:00:00,Loja Física,0,1,Sul,70,F,True,Comentário simulado 174
+175,2024-06-24 18:00:00,Site,10,2,Centro-Oeste,61,Outro,True,Comentário simulado 175
+176,2024-07-01 21:00:00,App,6,3,Sul,35,M,False,Comentário simulado 176
+177,2024-04-06 23:00:00,Site,5,5,Sul,20,F,True,Comentário simulado 177
+178,2024-11-29 12:00:00,Loja Física,1,3,Nordeste,24,Outro,False,Comentário simulado 178
+179,2024-05-02 03:00:00,Loja Física,7,3,Centro-Oeste,60,F,True,Comentário simulado 179
+180,2024-11-20 01:00:00,App,10,5,Norte,35,F,True,Comentário simulado 180
+181,2024-01-09 05:00:00,Site,3,5,Sul,61,F,False,Comentário simulado 181
+182,2024-10-23 21:00:00,Call Center,7,4,Nordeste,55,Outro,True,Comentário simulado 182
+183,2024-03-21 10:00:00,Site,6,4,Centro-Oeste,54,M,False,Comentário simulado 183
+184,2024-09-18 23:00:00,Site,4,3,Centro-Oeste,50,F,False,Comentário simulado 184
+185,2024-06-27 10:00:00,Site,9,3,Sudeste,61,M,True,Comentário simulado 185
+186,2024-04-14 15:00:00,Site,9,1,Sudeste,48,M,True,Comentário simulado 186
+187,2024-01-28 11:00:00,Call Center,7,1,Sul,28,Outro,False,Comentário simulado 187
+188,2024-04-27 03:00:00,Loja Física,8,4,Sudeste,21,Outro,False,Comentário simulado 188
+189,2024-10-22 18:00:00,Site,4,4,Sul,35,M,True,Comentário simulado 189
+190,2024-09-29 18:00:00,App,9,1,Norte,21,F,False,Comentário simulado 190
+191,2024-03-23 18:00:00,Call Center,4,1,Sul,66,Outro,True,Comentário simulado 191
+192,2024-12-13 10:00:00,Loja Física,1,2,Sudeste,51,F,True,Comentário simulado 192
+193,2024-05-01 07:00:00,App,4,2,Norte,46,F,False,Comentário simulado 193
+194,2024-03-13 06:00:00,Call Center,2,1,Sudeste,41,F,True,Comentário simulado 194
+195,2024-03-17 19:00:00,Call Center,6,2,Sul,39,M,False,Comentário simulado 195
+196,2024-12-27 16:00:00,Loja Física,9,5,Nordeste,19,F,True,Comentário simulado 196
+197,2024-05-04 00:00:00,Site,4,4,Centro-Oeste,61,M,True,Comentário simulado 197
+198,2024-03-22 15:00:00,App,7,4,Sudeste,23,M,True,Comentário simulado 198
+199,2024-08-27 23:00:00,Loja Física,0,1,Sul,59,F,True,Comentário simulado 199
+200,2024-10-05 22:00:00,Site,2,3,Norte,42,F,True,Comentário simulado 200
+201,2024-04-09 09:00:00,Loja Física,2,1,Sudeste,38,F,True,Comentário simulado 201
+202,2024-07-16 08:00:00,Site,8,2,Sudeste,33,F,True,Comentário simulado 202
+203,2024-03-16 02:00:00,Site,4,3,Centro-Oeste,48,M,True,Comentário simulado 203
+204,2024-12-05 19:00:00,Site,8,2,Sul,31,F,True,Comentário simulado 204
+205,2024-12-04 08:00:00,Site,8,5,Nordeste,56,F,False,Comentário simulado 205
+206,2024-10-02 16:00:00,Call Center,0,2,Norte,45,M,True,Comentário simulado 206
+207,2024-08-18 14:00:00,Loja Física,1,5,Sul,49,Outro,True,Comentário simulado 207
+208,2024-06-18 05:00:00,Loja Física,4,5,Norte,45,Outro,True,Comentário simulado 208
+209,2024-01-11 22:00:00,App,3,2,Sudeste,68,M,True,Comentário simulado 209
+210,2024-09-18 23:00:00,Site,9,2,Centro-Oeste,66,Outro,True,Comentário simulado 210
+211,2024-03-26 09:00:00,App,8,5,Centro-Oeste,26,M,True,Comentário simulado 211
+212,2024-08-13 23:00:00,App,6,3,Nordeste,62,F,True,Comentário simulado 212
+213,2024-07-08 12:00:00,App,5,5,Centro-Oeste,39,F,False,Comentário simulado 213
+214,2024-05-09 12:00:00,Site,6,4,Sudeste,49,Outro,False,Comentário simulado 214
+215,2024-10-25 06:00:00,App,0,5,Nordeste,22,F,True,Comentário simulado 215
+216,2024-11-04 08:00:00,App,0,3,Sul,40,Outro,True,Comentário simulado 216
+217,2024-05-12 02:00:00,Call Center,7,4,Centro-Oeste,22,Outro,True,Comentário simulado 217
+218,2024-04-03 23:00:00,Loja Física,1,1,Nordeste,59,F,True,Comentário simulado 218
+219,2024-02-18 02:00:00,App,9,1,Sudeste,70,F,True,Comentário simulado 219
+220,2024-07-06 11:00:00,App,10,3,Norte,49,Outro,True,Comentário simulado 220
+221,2024-09-19 07:00:00,Loja Física,8,5,Norte,27,F,True,Comentário simulado 221
+222,2024-09-15 05:00:00,Site,6,2,Sudeste,56,M,True,Comentário simulado 222
+223,2024-03-09 16:00:00,Loja Física,5,3,Sudeste,32,F,True,Comentário simulado 223
+224,2024-08-18 19:00:00,Loja Física,0,4,Norte,24,F,True,Comentário simulado 224
+225,2024-06-23 23:00:00,App,0,4,Nordeste,46,M,True,Comentário simulado 225
+226,2024-12-17 21:00:00,Site,1,1,Norte,64,F,True,Comentário simulado 226
+227,2024-04-16 13:00:00,Site,5,4,Sudeste,20,F,True,Comentário simulado 227
+228,2024-08-21 00:00:00,App,5,3,Centro-Oeste,36,Outro,True,Comentário simulado 228
+229,2024-01-05 02:00:00,Site,1,4,Sul,27,F,True,Comentário simulado 229
+230,2024-04-01 16:00:00,Loja Física,0,3,Centro-Oeste,45,F,True,Comentário simulado 230
+231,2024-05-03 09:00:00,Site,9,2,Centro-Oeste,46,M,True,Comentário simulado 231
+232,2024-07-26 05:00:00,Site,4,1,Sudeste,32,Outro,True,Comentário simulado 232
+233,2024-07-03 17:00:00,Call Center,4,4,Norte,52,Outro,True,Comentário simulado 233
+234,2024-04-29 13:00:00,Loja Física,1,3,Nordeste,23,Outro,True,Comentário simulado 234
+235,2024-02-09 20:00:00,Site,5,5,Centro-Oeste,29,F,True,Comentário simulado 235
+236,2024-12-14 00:00:00,Site,8,1,Norte,64,Outro,True,Comentário simulado 236
+237,2024-08-25 11:00:00,Site,1,2,Nordeste,55,M,True,Comentário simulado 237
+238,2024-10-16 08:00:00,App,9,3,Centro-Oeste,30,Outro,False,Comentário simulado 238
+239,2024-07-06 05:00:00,Site,1,2,Nordeste,46,M,True,Comentário simulado 239
+240,2024-07-23 15:00:00,App,2,2,Norte,36,Outro,True,Comentário simulado 240
+241,2024-06-15 03:00:00,Call Center,6,4,Sul,20,Outro,False,Comentário simulado 241
+242,2024-09-07 15:00:00,Site,5,4,Norte,25,M,False,Comentário simulado 242
+243,2024-02-20 18:00:00,Loja Física,7,3,Sudeste,25,Outro,True,Comentário simulado 243
+244,2024-07-06 08:00:00,Call Center,7,5,Nordeste,37,Outro,True,Comentário simulado 244
+245,2024-07-16 07:00:00,Site,5,3,Sul,64,Outro,True,Comentário simulado 245
+246,2024-07-08 19:00:00,Loja Física,10,5,Nordeste,21,F,True,Comentário simulado 246
+247,2024-12-01 10:00:00,App,9,2,Nordeste,68,M,True,Comentário simulado 247
+248,2024-05-23 14:00:00,Call Center,2,1,Centro-Oeste,38,Outro,True,Comentário simulado 248
+249,2024-02-13 13:00:00,App,2,3,Sudeste,20,M,True,Comentário simulado 249
+250,2024-10-14 05:00:00,App,0,3,Nordeste,62,M,False,Comentário simulado 250
+251,2024-03-11 13:00:00,App,6,5,Norte,25,M,False,Comentário simulado 251
+252,2024-05-23 04:00:00,Loja Física,4,2,Norte,40,Outro,True,Comentário simulado 252
+253,2024-12-30 18:00:00,Loja Física,3,2,Centro-Oeste,33,Outro,True,Comentário simulado 253
+254,2024-09-02 15:00:00,App,9,5,Sudeste,30,M,True,Comentário simulado 254
+255,2024-05-19 18:00:00,Loja Física,3,2,Sudeste,20,F,False,Comentário simulado 255
+256,2024-01-10 09:00:00,Site,3,4,Norte,65,M,True,Comentário simulado 256
+257,2024-07-22 21:00:00,Site,5,1,Sul,26,F,True,Comentário simulado 257
+258,2024-10-19 14:00:00,Site,7,3,Centro-Oeste,31,M,True,Comentário simulado 258
+259,2024-08-21 08:00:00,Site,7,1,Centro-Oeste,30,M,True,Comentário simulado 259
+260,2024-11-29 04:00:00,Site,4,3,Norte,70,M,True,Comentário simulado 260
+261,2024-11-16 03:00:00,Call Center,5,4,Norte,24,Outro,False,Comentário simulado 261
+262,2024-07-12 10:00:00,Site,3,2,Sul,32,F,True,Comentário simulado 262
+263,2024-11-15 23:00:00,App,10,5,Sul,24,F,True,Comentário simulado 263
+264,2024-12-08 00:00:00,Site,8,4,Sudeste,55,M,True,Comentário simulado 264
+265,2024-11-01 19:00:00,Loja Física,7,1,Centro-Oeste,51,Outro,True,Comentário simulado 265
+266,2024-04-01 21:00:00,Call Center,9,5,Centro-Oeste,58,Outro,False,Comentário simulado 266
+267,2024-02-14 13:00:00,App,9,2,Norte,39,F,False,Comentário simulado 267
+268,2024-05-23 12:00:00,Loja Física,0,4,Sudeste,41,Outro,False,Comentário simulado 268
+269,2024-02-14 04:00:00,Site,1,5,Centro-Oeste,66,F,False,Comentário simulado 269
+270,2024-04-06 23:00:00,Loja Física,8,4,Sudeste,54,F,True,Comentário simulado 270
+271,2024-05-22 12:00:00,Site,7,4,Sudeste,61,F,True,Comentário simulado 271
+272,2024-01-13 13:00:00,Call Center,2,2,Norte,18,Outro,True,Comentário simulado 272
+273,2024-01-26 06:00:00,Site,7,3,Sudeste,27,F,False,Comentário simulado 273
+274,2024-05-12 02:00:00,App,0,5,Sul,60,F,True,Comentário simulado 274
+275,2024-01-30 03:00:00,Loja Física,9,2,Sul,33,M,True,Comentário simulado 275
+276,2024-07-31 00:00:00,Site,3,4,Nordeste,63,F,False,Comentário simulado 276
+277,2024-01-08 22:00:00,Site,2,2,Norte,25,F,True,Comentário simulado 277
+278,2024-02-10 20:00:00,Site,5,3,Nordeste,66,M,True,Comentário simulado 278
+279,2024-05-03 23:00:00,Site,6,5,Sul,42,M,True,Comentário simulado 279
+280,2024-09-11 06:00:00,App,3,3,Nordeste,67,Outro,True,Comentário simulado 280
+281,2024-02-19 08:00:00,Site,6,1,Norte,29,F,True,Comentário simulado 281
+282,2024-05-18 15:00:00,Site,8,5,Norte,42,Outro,False,Comentário simulado 282
+283,2024-05-21 10:00:00,Site,10,3,Sudeste,34,Outro,True,Comentário simulado 283
+284,2024-12-12 15:00:00,Loja Física,1,4,Centro-Oeste,43,M,False,Comentário simulado 284
+285,2024-03-16 16:00:00,Site,10,5,Sudeste,63,Outro,True,Comentário simulado 285
+286,2024-08-31 22:00:00,Site,2,5,Norte,65,F,True,Comentário simulado 286
+287,2024-10-06 13:00:00,Site,4,2,Sul,31,M,False,Comentário simulado 287
+288,2024-01-24 17:00:00,App,2,4,Sul,58,F,True,Comentário simulado 288
+289,2024-08-14 18:00:00,Loja Física,10,1,Sudeste,53,F,True,Comentário simulado 289
+290,2024-03-19 23:00:00,Site,7,3,Norte,40,M,False,Comentário simulado 290
+291,2024-04-23 21:00:00,Site,9,2,Sul,60,F,True,Comentário simulado 291
+292,2024-06-09 23:00:00,Loja Física,7,3,Norte,23,M,True,Comentário simulado 292
+293,2024-11-06 15:00:00,Loja Física,7,1,Sul,64,F,True,Comentário simulado 293
+294,2024-06-16 06:00:00,Site,8,1,Norte,22,M,True,Comentário simulado 294
+295,2024-03-11 06:00:00,Loja Física,3,5,Nordeste,60,Outro,True,Comentário simulado 295
+296,2024-05-05 09:00:00,Call Center,4,1,Norte,42,F,True,Comentário simulado 296
+297,2024-11-21 06:00:00,Site,4,3,Norte,35,M,False,Comentário simulado 297
+298,2024-01-07 10:00:00,Loja Física,7,4,Sudeste,30,F,False,Comentário simulado 298
+299,2024-02-28 17:00:00,Loja Física,6,4,Nordeste,60,F,True,Comentário simulado 299
+300,2024-02-02 16:00:00,App,8,5,Centro-Oeste,31,F,True,Comentário simulado 300
+301,2024-12-03 08:00:00,Site,7,3,Sudeste,45,M,True,Comentário simulado 301
+302,2024-11-11 00:00:00,Site,1,3,Centro-Oeste,35,Outro,True,Comentário simulado 302
+303,2024-11-01 23:00:00,Loja Física,9,1,Sul,45,Outro,True,Comentário simulado 303
+304,2024-10-27 06:00:00,Call Center,3,3,Centro-Oeste,68,Outro,False,Comentário simulado 304
+305,2024-08-21 04:00:00,App,5,2,Norte,44,M,False,Comentário simulado 305
+306,2024-08-29 17:00:00,App,1,1,Centro-Oeste,49,Outro,True,Comentário simulado 306
+307,2024-04-26 22:00:00,App,6,2,Sudeste,64,M,True,Comentário simulado 307
+308,2024-01-23 09:00:00,App,2,5,Sudeste,26,F,True,Comentário simulado 308
+309,2024-09-06 10:00:00,Site,2,4,Centro-Oeste,57,F,True,Comentário simulado 309
+310,2024-03-17 17:00:00,Site,10,5,Sudeste,49,Outro,True,Comentário simulado 310
+311,2024-12-29 04:00:00,Loja Física,1,4,Sudeste,37,M,False,Comentário simulado 311
+312,2024-10-17 11:00:00,Site,10,5,Centro-Oeste,45,F,True,Comentário simulado 312
+313,2024-08-22 09:00:00,Loja Física,7,3,Nordeste,50,M,False,Comentário simulado 313
+314,2024-05-02 22:00:00,Site,5,2,Nordeste,21,M,True,Comentário simulado 314
+315,2024-11-29 00:00:00,Site,0,4,Sul,63,F,True,Comentário simulado 315
+316,2024-07-18 04:00:00,Site,0,1,Sudeste,51,M,True,Comentário simulado 316
+317,2024-04-08 16:00:00,App,6,2,Centro-Oeste,65,F,True,Comentário simulado 317
+318,2024-10-04 07:00:00,Call Center,7,1,Sudeste,20,F,True,Comentário simulado 318
+319,2024-12-06 13:00:00,Site,4,2,Norte,43,F,True,Comentário simulado 319
+320,2024-07-06 07:00:00,Loja Física,10,2,Sudeste,25,M,False,Comentário simulado 320
+321,2024-09-07 02:00:00,App,4,5,Sudeste,23,F,True,Comentário simulado 321
+322,2024-10-02 14:00:00,Loja Física,3,4,Nordeste,33,M,True,Comentário simulado 322
+323,2024-09-03 15:00:00,Site,5,4,Centro-Oeste,41,F,False,Comentário simulado 323
+324,2024-02-05 13:00:00,Loja Física,5,2,Sudeste,65,F,False,Comentário simulado 324
+325,2024-06-21 18:00:00,Loja Física,2,3,Nordeste,56,Outro,False,Comentário simulado 325
+326,2024-06-06 01:00:00,Site,8,3,Sul,47,Outro,True,Comentário simulado 326
+327,2024-01-24 22:00:00,Site,10,1,Nordeste,62,Outro,False,Comentário simulado 327
+328,2024-02-17 20:00:00,Loja Física,6,1,Nordeste,30,M,True,Comentário simulado 328
+329,2024-09-19 05:00:00,Call Center,0,5,Nordeste,22,M,True,Comentário simulado 329
+330,2024-09-26 01:00:00,Site,6,2,Sudeste,42,F,True,Comentário simulado 330
+331,2024-11-08 21:00:00,Loja Física,4,1,Sudeste,37,F,True,Comentário simulado 331
+332,2024-07-18 01:00:00,Call Center,4,1,Sul,35,F,True,Comentário simulado 332
+333,2024-06-09 14:00:00,Loja Física,1,2,Norte,64,F,True,Comentário simulado 333
+334,2024-04-13 19:00:00,Call Center,3,5,Norte,35,M,True,Comentário simulado 334
+335,2024-05-10 04:00:00,Loja Física,5,1,Norte,19,F,True,Comentário simulado 335
+336,2024-08-25 03:00:00,App,9,5,Sul,27,F,True,Comentário simulado 336
+337,2024-05-07 03:00:00,Site,10,4,Norte,62,Outro,False,Comentário simulado 337
+338,2024-01-01 04:00:00,Site,6,5,Norte,67,F,False,Comentário simulado 338
+339,2024-08-05 14:00:00,Loja Física,10,3,Nordeste,64,F,True,Comentário simulado 339
+340,2024-08-09 11:00:00,Loja Física,4,3,Sudeste,29,F,False,Comentário simulado 340
+341,2024-07-21 21:00:00,Site,8,5,Sudeste,64,M,True,Comentário simulado 341
+342,2024-02-06 12:00:00,Loja Física,2,3,Nordeste,30,Outro,True,Comentário simulado 342
+343,2024-10-19 19:00:00,Loja Física,0,4,Nordeste,67,F,True,Comentário simulado 343
+344,2024-06-21 14:00:00,App,3,2,Nordeste,64,F,True,Comentário simulado 344
+345,2024-10-17 06:00:00,App,8,3,Sudeste,28,Outro,False,Comentário simulado 345
+346,2024-10-21 23:00:00,App,3,3,Norte,36,F,True,Comentário simulado 346
+347,2024-11-28 19:00:00,Site,1,5,Nordeste,52,M,True,Comentário simulado 347
+348,2024-10-10 07:00:00,Site,9,4,Sul,56,F,True,Comentário simulado 348
+349,2024-07-05 01:00:00,Site,4,2,Nordeste,70,M,True,Comentário simulado 349
+350,2024-01-27 11:00:00,Site,2,5,Centro-Oeste,43,M,False,Comentário simulado 350
+351,2024-03-11 13:00:00,App,8,5,Nordeste,63,F,False,Comentário simulado 351
+352,2024-07-17 00:00:00,App,3,4,Sudeste,31,Outro,True,Comentário simulado 352
+353,2024-12-12 07:00:00,Site,5,2,Nordeste,62,M,False,Comentário simulado 353
+354,2024-02-04 14:00:00,Loja Física,1,4,Centro-Oeste,61,Outro,True,Comentário simulado 354
+355,2024-08-03 17:00:00,Site,5,2,Sul,41,F,False,Comentário simulado 355
+356,2024-12-12 04:00:00,Call Center,2,4,Norte,58,M,True,Comentário simulado 356
+357,2024-09-04 21:00:00,Call Center,8,5,Nordeste,18,F,True,Comentário simulado 357
+358,2024-04-28 06:00:00,Site,10,5,Centro-Oeste,68,Outro,True,Comentário simulado 358
+359,2024-02-17 22:00:00,App,1,1,Centro-Oeste,60,F,True,Comentário simulado 359
+360,2024-11-11 00:00:00,Site,8,3,Sul,39,F,True,Comentário simulado 360
+361,2024-03-21 11:00:00,App,4,4,Sudeste,40,M,True,Comentário simulado 361
+362,2024-03-10 08:00:00,App,7,1,Nordeste,36,F,True,Comentário simulado 362
+363,2024-02-15 01:00:00,Site,1,3,Centro-Oeste,35,F,False,Comentário simulado 363
+364,2024-01-22 08:00:00,App,5,4,Sul,29,F,True,Comentário simulado 364
+365,2024-11-21 05:00:00,Site,2,2,Norte,45,M,True,Comentário simulado 365
+366,2024-08-06 05:00:00,Site,9,3,Centro-Oeste,45,Outro,True,Comentário simulado 366
+367,2024-01-24 07:00:00,App,4,5,Sul,50,Outro,False,Comentário simulado 367
+368,2024-06-02 00:00:00,Site,7,1,Sudeste,36,F,True,Comentário simulado 368
+369,2024-11-04 12:00:00,App,9,3,Sudeste,45,M,False,Comentário simulado 369
+370,2024-05-19 07:00:00,App,0,3,Centro-Oeste,69,F,False,Comentário simulado 370
+371,2024-06-18 14:00:00,Call Center,4,5,Centro-Oeste,66,Outro,True,Comentário simulado 371
+372,2024-01-25 04:00:00,Site,2,4,Nordeste,54,M,True,Comentário simulado 372
+373,2024-10-18 20:00:00,App,3,2,Sul,43,Outro,True,Comentário simulado 373
+374,2024-12-04 18:00:00,App,1,5,Centro-Oeste,52,Outro,True,Comentário simulado 374
+375,2024-05-11 03:00:00,Site,8,2,Nordeste,51,M,False,Comentário simulado 375
+376,2024-06-26 01:00:00,Call Center,2,4,Nordeste,52,M,False,Comentário simulado 376
+377,2024-03-10 23:00:00,Loja Física,1,3,Centro-Oeste,57,F,True,Comentário simulado 377
+378,2024-05-26 02:00:00,App,9,2,Sudeste,33,F,True,Comentário simulado 378
+379,2024-10-29 05:00:00,Loja Física,10,1,Sul,55,Outro,False,Comentário simulado 379
+380,2024-04-24 08:00:00,Call Center,8,1,Sul,30,M,True,Comentário simulado 380
+381,2024-08-04 04:00:00,Call Center,6,5,Sudeste,40,M,True,Comentário simulado 381
+382,2024-03-30 05:00:00,Loja Física,5,4,Centro-Oeste,39,F,True,Comentário simulado 382
+383,2024-10-02 17:00:00,Loja Física,0,5,Sul,33,Outro,True,Comentário simulado 383
+384,2024-04-13 07:00:00,Site,4,5,Centro-Oeste,45,Outro,False,Comentário simulado 384
+385,2024-09-27 04:00:00,Site,10,5,Centro-Oeste,65,F,True,Comentário simulado 385
+386,2024-11-05 05:00:00,App,10,1,Nordeste,52,M,True,Comentário simulado 386
+387,2024-07-04 12:00:00,Site,2,1,Sudeste,62,F,False,Comentário simulado 387
+388,2024-09-02 01:00:00,App,0,5,Centro-Oeste,63,F,True,Comentário simulado 388
+389,2024-10-04 17:00:00,Site,3,1,Norte,25,F,False,Comentário simulado 389
+390,2024-04-28 17:00:00,Site,1,4,Sudeste,61,F,True,Comentário simulado 390
+391,2024-11-03 22:00:00,Loja Física,1,5,Sul,39,M,True,Comentário simulado 391
+392,2024-10-14 17:00:00,Call Center,2,1,Nordeste,38,F,False,Comentário simulado 392
+393,2024-04-13 17:00:00,Site,7,2,Sul,43,M,True,Comentário simulado 393
+394,2024-07-11 03:00:00,App,7,5,Sul,57,F,True,Comentário simulado 394
+395,2024-04-28 07:00:00,Loja Física,6,5,Sudeste,38,Outro,True,Comentário simulado 395
+396,2024-12-21 07:00:00,Site,5,4,Sul,42,M,True,Comentário simulado 396
+397,2024-09-01 22:00:00,Loja Física,8,3,Centro-Oeste,58,Outro,True,Comentário simulado 397
+398,2024-09-19 15:00:00,Site,3,3,Sul,18,F,False,Comentário simulado 398
+399,2024-02-05 11:00:00,Site,0,4,Nordeste,23,F,False,Comentário simulado 399
+400,2024-03-11 07:00:00,Call Center,7,4,Nordeste,40,F,False,Comentário simulado 400
+401,2024-10-11 17:00:00,Site,6,4,Norte,68,M,True,Comentário simulado 401
+402,2024-04-11 03:00:00,App,6,3,Nordeste,40,Outro,True,Comentário simulado 402
+403,2024-06-15 16:00:00,Loja Física,2,4,Sul,60,M,True,Comentário simulado 403
+404,2024-07-29 12:00:00,Site,3,1,Nordeste,60,M,False,Comentário simulado 404
+405,2024-04-24 02:00:00,App,9,5,Sudeste,40,F,True,Comentário simulado 405
+406,2024-08-26 20:00:00,Call Center,8,5,Nordeste,49,Outro,True,Comentário simulado 406
+407,2024-08-12 11:00:00,Site,5,2,Centro-Oeste,47,F,False,Comentário simulado 407
+408,2024-11-29 10:00:00,Loja Física,4,2,Sudeste,30,M,True,Comentário simulado 408
+409,2024-08-18 16:00:00,App,2,5,Norte,60,F,True,Comentário simulado 409
+410,2024-06-12 01:00:00,App,8,1,Centro-Oeste,35,Outro,False,Comentário simulado 410
+411,2024-02-14 10:00:00,App,4,3,Sul,40,F,False,Comentário simulado 411
+412,2024-11-17 19:00:00,Site,4,3,Sul,32,Outro,True,Comentário simulado 412
+413,2024-07-01 12:00:00,Call Center,3,1,Sul,50,Outro,True,Comentário simulado 413
+414,2024-06-20 03:00:00,Call Center,3,3,Centro-Oeste,38,F,False,Comentário simulado 414
+415,2024-08-26 14:00:00,App,0,4,Centro-Oeste,56,M,True,Comentário simulado 415
+416,2024-05-20 13:00:00,Loja Física,6,5,Centro-Oeste,40,F,True,Comentário simulado 416
+417,2024-03-27 18:00:00,App,8,5,Sudeste,44,M,True,Comentário simulado 417
+418,2024-10-08 04:00:00,App,2,1,Sudeste,62,M,True,Comentário simulado 418
+419,2024-01-18 09:00:00,App,1,3,Sul,61,F,True,Comentário simulado 419
+420,2024-12-12 02:00:00,App,2,2,Nordeste,35,M,True,Comentário simulado 420
+421,2024-06-14 14:00:00,App,0,2,Sul,41,M,True,Comentário simulado 421
+422,2024-05-16 03:00:00,Loja Física,5,3,Norte,68,F,True,Comentário simulado 422
+423,2024-02-04 09:00:00,App,10,2,Sudeste,64,F,False,Comentário simulado 423
+424,2024-11-15 12:00:00,Site,10,1,Centro-Oeste,57,F,False,Comentário simulado 424
+425,2024-08-27 09:00:00,Site,6,1,Sudeste,68,M,False,Comentário simulado 425
+426,2024-01-18 04:00:00,App,10,3,Centro-Oeste,59,Outro,True,Comentário simulado 426
+427,2024-11-10 07:00:00,Loja Física,10,2,Norte,24,M,True,Comentário simulado 427
+428,2024-11-12 03:00:00,App,1,1,Norte,67,Outro,True,Comentário simulado 428
+429,2024-01-31 08:00:00,App,7,1,Sudeste,65,F,False,Comentário simulado 429
+430,2024-10-25 12:00:00,App,5,4,Centro-Oeste,37,Outro,True,Comentário simulado 430
+431,2024-09-06 12:00:00,App,3,4,Norte,44,F,True,Comentário simulado 431
+432,2024-04-14 08:00:00,Site,4,1,Sul,23,F,False,Comentário simulado 432
+433,2024-05-03 15:00:00,App,7,3,Sul,44,Outro,True,Comentário simulado 433
+434,2024-04-26 02:00:00,Loja Física,2,5,Centro-Oeste,26,F,True,Comentário simulado 434
+435,2024-02-16 18:00:00,Loja Física,2,5,Sudeste,70,Outro,False,Comentário simulado 435
+436,2024-06-18 23:00:00,App,10,1,Norte,62,F,False,Comentário simulado 436
+437,2024-03-06 11:00:00,Site,3,1,Sudeste,48,M,True,Comentário simulado 437
+438,2024-07-30 09:00:00,Site,0,1,Sul,38,M,False,Comentário simulado 438
+439,2024-07-31 16:00:00,Site,8,3,Norte,43,F,True,Comentário simulado 439
+440,2024-03-30 07:00:00,App,7,4,Sudeste,57,F,False,Comentário simulado 440
+441,2024-10-10 14:00:00,Site,7,1,Nordeste,65,Outro,True,Comentário simulado 441
+442,2024-11-02 13:00:00,App,9,1,Centro-Oeste,62,M,True,Comentário simulado 442
+443,2024-05-23 08:00:00,App,5,2,Centro-Oeste,30,Outro,True,Comentário simulado 443
+444,2024-06-05 22:00:00,Site,6,3,Nordeste,66,F,False,Comentário simulado 444
+445,2024-08-23 04:00:00,App,5,1,Sul,40,F,True,Comentário simulado 445
+446,2024-05-01 10:00:00,Site,8,2,Norte,37,Outro,True,Comentário simulado 446
+447,2024-07-26 00:00:00,App,2,5,Centro-Oeste,54,F,True,Comentário simulado 447
+448,2024-09-03 13:00:00,Site,2,1,Nordeste,70,M,False,Comentário simulado 448
+449,2024-01-31 08:00:00,Loja Física,2,1,Nordeste,45,Outro,True,Comentário simulado 449
+450,2024-02-26 21:00:00,Site,9,2,Sul,34,M,True,Comentário simulado 450
+451,2024-07-06 04:00:00,Call Center,2,3,Sul,45,M,True,Comentário simulado 451
+452,2024-01-30 02:00:00,App,8,1,Sudeste,58,M,True,Comentário simulado 452
+453,2024-10-26 10:00:00,Loja Física,3,5,Centro-Oeste,19,Outro,True,Comentário simulado 453
+454,2024-01-17 11:00:00,App,6,1,Sudeste,42,F,True,Comentário simulado 454
+455,2024-11-04 08:00:00,Loja Física,8,5,Nordeste,67,M,True,Comentário simulado 455
+456,2024-12-02 18:00:00,Loja Física,10,4,Norte,58,M,True,Comentário simulado 456
+457,2024-06-22 19:00:00,App,6,4,Norte,23,M,False,Comentário simulado 457
+458,2024-06-30 16:00:00,App,8,5,Sul,28,F,True,Comentário simulado 458
+459,2024-04-14 06:00:00,App,2,3,Norte,55,F,True,Comentário simulado 459
+460,2024-01-30 21:00:00,App,3,1,Norte,23,Outro,False,Comentário simulado 460
+461,2024-04-25 22:00:00,Site,7,1,Norte,62,F,True,Comentário simulado 461
+462,2024-07-25 02:00:00,Site,5,4,Nordeste,28,Outro,False,Comentário simulado 462
+463,2024-08-16 14:00:00,App,4,5,Norte,31,Outro,True,Comentário simulado 463
+464,2024-12-13 07:00:00,App,3,1,Norte,19,Outro,True,Comentário simulado 464
+465,2024-07-26 12:00:00,Loja Física,7,1,Norte,57,Outro,True,Comentário simulado 465
+466,2024-10-29 18:00:00,App,0,3,Sudeste,20,Outro,False,Comentário simulado 466
+467,2024-07-06 03:00:00,Call Center,8,2,Nordeste,70,M,True,Comentário simulado 467
+468,2024-10-26 16:00:00,Site,0,4,Sul,52,F,True,Comentário simulado 468
+469,2024-08-20 20:00:00,Site,7,4,Sudeste,50,M,False,Comentário simulado 469
+470,2024-11-14 19:00:00,Site,3,2,Centro-Oeste,41,Outro,True,Comentário simulado 470
+471,2024-05-31 12:00:00,App,8,1,Nordeste,36,F,True,Comentário simulado 471
+472,2024-02-18 15:00:00,Loja Física,10,3,Nordeste,35,M,True,Comentário simulado 472
+473,2024-02-14 06:00:00,Site,4,3,Centro-Oeste,66,M,False,Comentário simulado 473
+474,2024-03-30 20:00:00,Loja Física,2,4,Centro-Oeste,69,Outro,True,Comentário simulado 474
+475,2024-11-23 12:00:00,App,8,3,Centro-Oeste,41,M,True,Comentário simulado 475
+476,2024-08-03 01:00:00,App,10,2,Sul,62,M,True,Comentário simulado 476
+477,2024-08-09 01:00:00,App,8,1,Norte,52,M,True,Comentário simulado 477
+478,2024-09-29 13:00:00,Site,3,2,Nordeste,18,M,False,Comentário simulado 478
+479,2024-07-16 01:00:00,App,10,5,Norte,53,M,False,Comentário simulado 479
+480,2024-11-01 10:00:00,App,3,4,Norte,42,Outro,False,Comentário simulado 480
+481,2024-08-10 06:00:00,Site,7,3,Centro-Oeste,62,Outro,False,Comentário simulado 481
+482,2024-06-29 10:00:00,App,1,5,Sul,66,M,True,Comentário simulado 482
+483,2024-11-29 18:00:00,Site,8,3,Sudeste,60,Outro,True,Comentário simulado 483
+484,2024-10-10 09:00:00,App,5,1,Sul,51,Outro,False,Comentário simulado 484
+485,2024-07-20 22:00:00,App,8,1,Norte,42,F,True,Comentário simulado 485
+486,2024-10-07 11:00:00,App,7,1,Sul,33,M,True,Comentário simulado 486
+487,2024-10-28 17:00:00,App,6,3,Centro-Oeste,51,Outro,False,Comentário simulado 487
+488,2024-02-09 17:00:00,Site,0,5,Sudeste,46,Outro,True,Comentário simulado 488
+489,2024-04-15 19:00:00,App,2,1,Centro-Oeste,36,M,False,Comentário simulado 489
+490,2024-10-21 00:00:00,Site,10,5,Sudeste,40,F,True,Comentário simulado 490
+491,2024-03-05 06:00:00,Site,1,3,Norte,36,M,True,Comentário simulado 491
+492,2024-08-08 13:00:00,Loja Física,4,5,Sudeste,42,F,True,Comentário simulado 492
+493,2024-02-19 15:00:00,Site,4,3,Sudeste,33,M,True,Comentário simulado 493
+494,2024-09-20 01:00:00,App,4,3,Sudeste,68,M,False,Comentário simulado 494
+495,2024-10-16 02:00:00,App,3,4,Sul,26,M,True,Comentário simulado 495
+496,2024-04-21 17:00:00,Site,4,3,Sul,18,M,True,Comentário simulado 496
+497,2024-03-05 04:00:00,Site,2,3,Norte,59,F,True,Comentário simulado 497
+498,2024-09-14 04:00:00,Site,0,2,Sudeste,36,F,True,Comentário simulado 498
+499,2024-08-18 21:00:00,Loja Física,4,1,Nordeste,50,Outro,True,Comentário simulado 499
+500,2024-02-26 21:00:00,App,8,4,Norte,51,M,False,Comentário simulado 500
+501,2024-12-28 03:00:00,Site,8,4,Sudeste,33,F,True,Comentário simulado 501
+502,2024-12-28 14:00:00,App,3,4,Sudeste,61,F,False,Comentário simulado 502
+503,2024-11-08 06:00:00,App,2,2,Sul,57,F,False,Comentário simulado 503
+504,2024-06-28 16:00:00,Site,0,3,Norte,35,M,True,Comentário simulado 504
+505,2024-02-25 04:00:00,App,1,1,Sudeste,51,Outro,True,Comentário simulado 505
+506,2024-05-10 21:00:00,App,7,5,Sudeste,42,F,False,Comentário simulado 506
+507,2024-11-05 03:00:00,Call Center,0,3,Norte,62,M,True,Comentário simulado 507
+508,2024-05-25 06:00:00,Site,7,2,Nordeste,23,F,True,Comentário simulado 508
+509,2024-03-16 10:00:00,Site,6,3,Norte,38,F,True,Comentário simulado 509
+510,2024-10-01 12:00:00,Site,7,3,Norte,23,Outro,False,Comentário simulado 510
+511,2024-05-01 19:00:00,App,5,2,Nordeste,49,F,False,Comentário simulado 511
+512,2024-08-08 21:00:00,Site,8,4,Norte,58,F,False,Comentário simulado 512
+513,2024-06-23 10:00:00,App,2,4,Sudeste,65,M,True,Comentário simulado 513
+514,2024-09-06 01:00:00,Loja Física,9,1,Norte,60,M,True,Comentário simulado 514
+515,2024-06-26 20:00:00,Loja Física,3,1,Nordeste,56,Outro,True,Comentário simulado 515
+516,2024-07-16 20:00:00,App,5,4,Centro-Oeste,48,M,True,Comentário simulado 516
+517,2024-07-21 01:00:00,Loja Física,7,5,Norte,59,M,True,Comentário simulado 517
+518,2024-06-03 13:00:00,App,4,3,Sul,27,Outro,False,Comentário simulado 518
+519,2024-10-02 19:00:00,App,2,5,Sudeste,47,F,False,Comentário simulado 519
+520,2024-12-26 07:00:00,Site,5,3,Sudeste,69,Outro,True,Comentário simulado 520
+521,2024-05-08 00:00:00,Call Center,3,4,Sul,35,M,True,Comentário simulado 521
+522,2024-09-29 02:00:00,Site,8,1,Sul,41,Outro,True,Comentário simulado 522
+523,2024-01-22 00:00:00,Site,2,1,Norte,69,F,True,Comentário simulado 523
+524,2024-02-20 14:00:00,Site,3,5,Sul,26,Outro,False,Comentário simulado 524
+525,2024-03-04 19:00:00,App,6,1,Centro-Oeste,48,M,False,Comentário simulado 525
+526,2024-11-11 16:00:00,Site,6,4,Nordeste,32,M,True,Comentário simulado 526
+527,2024-02-04 07:00:00,Site,3,5,Sul,21,Outro,True,Comentário simulado 527
+528,2024-02-08 16:00:00,Site,5,3,Sul,57,F,True,Comentário simulado 528
+529,2024-07-28 13:00:00,Site,2,1,Centro-Oeste,26,Outro,True,Comentário simulado 529
+530,2024-01-06 13:00:00,App,5,2,Sudeste,62,F,True,Comentário simulado 530
+531,2024-03-28 17:00:00,App,1,1,Sudeste,26,F,True,Comentário simulado 531
+532,2024-05-31 03:00:00,Site,7,3,Norte,43,Outro,True,Comentário simulado 532
+533,2024-09-20 04:00:00,App,1,5,Centro-Oeste,21,F,False,Comentário simulado 533
+534,2024-03-18 04:00:00,App,10,3,Nordeste,34,M,True,Comentário simulado 534
+535,2024-07-23 14:00:00,Site,6,2,Nordeste,33,Outro,True,Comentário simulado 535
+536,2024-06-22 23:00:00,Site,8,4,Centro-Oeste,32,F,True,Comentário simulado 536
+537,2024-08-10 20:00:00,Call Center,0,1,Nordeste,52,M,True,Comentário simulado 537
+538,2024-09-14 22:00:00,App,7,5,Sudeste,69,Outro,True,Comentário simulado 538
+539,2024-02-22 08:00:00,Site,6,4,Nordeste,22,M,True,Comentário simulado 539
+540,2024-05-20 16:00:00,App,5,3,Nordeste,22,M,True,Comentário simulado 540
+541,2024-08-23 05:00:00,Site,5,5,Centro-Oeste,37,M,True,Comentário simulado 541
+542,2024-05-25 06:00:00,App,5,4,Centro-Oeste,32,F,False,Comentário simulado 542
+543,2024-05-29 08:00:00,Site,8,5,Nordeste,35,Outro,True,Comentário simulado 543
+544,2024-12-01 13:00:00,Site,1,2,Sul,64,Outro,False,Comentário simulado 544
+545,2024-05-18 18:00:00,Site,0,2,Centro-Oeste,19,F,True,Comentário simulado 545
+546,2024-04-22 15:00:00,Call Center,5,1,Norte,46,Outro,True,Comentário simulado 546
+547,2024-12-26 22:00:00,Loja Física,9,1,Norte,30,M,True,Comentário simulado 547
+548,2024-12-04 08:00:00,Site,10,2,Sudeste,21,Outro,True,Comentário simulado 548
+549,2024-10-23 10:00:00,Site,7,5,Nordeste,59,F,False,Comentário simulado 549
+550,2024-02-26 09:00:00,Loja Física,2,2,Sul,62,M,False,Comentário simulado 550
+551,2024-07-29 23:00:00,Site,9,1,Sudeste,27,F,False,Comentário simulado 551
+552,2024-12-22 05:00:00,Site,0,2,Nordeste,48,M,False,Comentário simulado 552
+553,2024-11-11 15:00:00,Call Center,8,2,Centro-Oeste,58,M,True,Comentário simulado 553
+554,2024-01-28 19:00:00,Site,0,5,Norte,25,Outro,True,Comentário simulado 554
+555,2024-07-05 04:00:00,App,2,4,Sul,20,M,True,Comentário simulado 555
+556,2024-10-11 03:00:00,Call Center,7,1,Norte,65,F,False,Comentário simulado 556
+557,2024-06-03 23:00:00,Site,2,5,Centro-Oeste,63,Outro,False,Comentário simulado 557
+558,2024-04-24 09:00:00,Site,3,2,Nordeste,26,F,True,Comentário simulado 558
+559,2024-11-07 19:00:00,Site,7,2,Centro-Oeste,47,M,False,Comentário simulado 559
+560,2024-01-23 11:00:00,Loja Física,0,4,Centro-Oeste,70,F,True,Comentário simulado 560
+561,2024-07-25 20:00:00,Loja Física,5,1,Norte,28,F,True,Comentário simulado 561
+562,2024-07-20 11:00:00,Loja Física,0,1,Sul,52,M,True,Comentário simulado 562
+563,2024-06-06 07:00:00,Site,0,3,Centro-Oeste,54,Outro,True,Comentário simulado 563
+564,2024-09-08 18:00:00,Loja Física,7,1,Norte,59,F,False,Comentário simulado 564
+565,2024-10-22 22:00:00,Call Center,10,4,Sul,30,M,True,Comentário simulado 565
+566,2024-10-31 16:00:00,App,3,3,Nordeste,53,Outro,True,Comentário simulado 566
+567,2024-08-09 16:00:00,Call Center,0,3,Nordeste,30,Outro,True,Comentário simulado 567
+568,2024-09-12 12:00:00,Loja Física,9,2,Sudeste,29,Outro,True,Comentário simulado 568
+569,2024-11-24 19:00:00,App,6,2,Norte,54,F,True,Comentário simulado 569
+570,2024-04-25 19:00:00,App,4,1,Sul,27,F,True,Comentário simulado 570
+571,2024-02-08 12:00:00,Site,4,3,Centro-Oeste,26,F,True,Comentário simulado 571
+572,2024-03-06 21:00:00,Site,0,2,Nordeste,69,Outro,True,Comentário simulado 572
+573,2024-11-17 10:00:00,App,9,4,Sul,24,F,True,Comentário simulado 573
+574,2024-05-18 12:00:00,Site,10,2,Norte,19,M,False,Comentário simulado 574
+575,2024-08-26 01:00:00,Loja Física,5,2,Sudeste,40,F,True,Comentário simulado 575
+576,2024-10-19 18:00:00,Call Center,8,3,Nordeste,56,F,True,Comentário simulado 576
+577,2024-01-11 15:00:00,Loja Física,8,3,Sul,57,Outro,True,Comentário simulado 577
+578,2024-07-19 04:00:00,Site,7,5,Sul,56,F,True,Comentário simulado 578
+579,2024-03-17 14:00:00,Site,4,4,Sul,38,M,True,Comentário simulado 579
+580,2024-01-01 09:00:00,Site,0,3,Norte,40,Outro,False,Comentário simulado 580
+581,2024-04-29 15:00:00,App,8,1,Norte,46,M,False,Comentário simulado 581
+582,2024-11-04 17:00:00,Loja Física,0,4,Norte,31,Outro,False,Comentário simulado 582
+583,2024-11-05 02:00:00,Call Center,7,4,Centro-Oeste,43,Outro,True,Comentário simulado 583
+584,2024-08-01 12:00:00,App,4,3,Sul,68,F,True,Comentário simulado 584
+585,2024-02-12 07:00:00,Call Center,2,4,Nordeste,22,M,False,Comentário simulado 585
+586,2024-04-01 09:00:00,Loja Física,10,3,Norte,48,Outro,True,Comentário simulado 586
+587,2024-12-16 15:00:00,Site,6,2,Norte,42,F,True,Comentário simulado 587
+588,2024-11-06 09:00:00,Loja Física,6,5,Sul,48,Outro,False,Comentário simulado 588
+589,2024-06-22 06:00:00,Site,8,2,Norte,67,Outro,True,Comentário simulado 589
+590,2024-06-12 13:00:00,Site,6,3,Centro-Oeste,37,Outro,True,Comentário simulado 590
+591,2024-10-17 10:00:00,App,10,3,Centro-Oeste,61,Outro,True,Comentário simulado 591
+592,2024-10-16 02:00:00,Site,2,2,Norte,34,Outro,True,Comentário simulado 592
+593,2024-07-18 08:00:00,App,10,1,Sul,62,Outro,True,Comentário simulado 593
+594,2024-06-15 16:00:00,App,0,1,Sul,19,F,True,Comentário simulado 594
+595,2024-03-09 01:00:00,App,7,1,Sul,42,Outro,True,Comentário simulado 595
+596,2024-10-29 18:00:00,Site,2,3,Sudeste,30,M,True,Comentário simulado 596
+597,2024-12-28 14:00:00,App,7,4,Norte,56,F,True,Comentário simulado 597
+598,2024-01-17 00:00:00,App,7,3,Sul,45,M,False,Comentário simulado 598
+599,2024-01-17 20:00:00,App,4,4,Centro-Oeste,59,Outro,True,Comentário simulado 599
+600,2024-12-06 15:00:00,App,0,2,Nordeste,23,M,True,Comentário simulado 600
+601,2024-03-24 08:00:00,Site,9,5,Nordeste,20,Outro,True,Comentário simulado 601
+602,2024-09-06 13:00:00,App,6,4,Sul,52,Outro,False,Comentário simulado 602
+603,2024-03-01 20:00:00,Site,9,1,Nordeste,35,F,True,Comentário simulado 603
+604,2024-10-26 14:00:00,App,4,3,Nordeste,28,F,True,Comentário simulado 604
+605,2024-10-24 12:00:00,Loja Física,7,2,Sudeste,37,Outro,True,Comentário simulado 605
+606,2024-05-31 12:00:00,App,8,1,Centro-Oeste,22,F,False,Comentário simulado 606
+607,2024-07-19 09:00:00,App,10,2,Centro-Oeste,36,M,True,Comentário simulado 607
+608,2024-06-23 02:00:00,Call Center,6,5,Sudeste,39,F,True,Comentário simulado 608
+609,2024-10-28 21:00:00,Loja Física,6,3,Sudeste,36,F,True,Comentário simulado 609
+610,2024-10-02 00:00:00,Call Center,0,3,Nordeste,64,M,True,Comentário simulado 610
+611,2024-09-06 21:00:00,Loja Física,3,5,Norte,33,F,False,Comentário simulado 611
+612,2024-03-26 08:00:00,Site,1,3,Nordeste,41,Outro,False,Comentário simulado 612
+613,2024-07-18 04:00:00,Site,1,4,Sudeste,58,M,True,Comentário simulado 613
+614,2024-01-30 20:00:00,App,1,2,Centro-Oeste,21,Outro,False,Comentário simulado 614
+615,2024-11-26 19:00:00,Site,3,1,Nordeste,32,M,True,Comentário simulado 615
+616,2024-08-19 21:00:00,App,0,5,Norte,42,Outro,True,Comentário simulado 616
+617,2024-07-08 08:00:00,Site,3,4,Nordeste,61,Outro,True,Comentário simulado 617
+618,2024-07-26 08:00:00,App,1,1,Sul,52,F,True,Comentário simulado 618
+619,2024-05-22 11:00:00,Loja Física,4,1,Nordeste,31,Outro,False,Comentário simulado 619
+620,2024-10-28 15:00:00,Loja Física,2,5,Sudeste,66,F,True,Comentário simulado 620
+621,2024-01-11 09:00:00,App,7,4,Centro-Oeste,36,M,True,Comentário simulado 621
+622,2024-02-02 02:00:00,Loja Física,3,1,Centro-Oeste,55,Outro,True,Comentário simulado 622
+623,2024-06-30 19:00:00,App,0,1,Sudeste,53,Outro,True,Comentário simulado 623
+624,2024-02-14 21:00:00,Loja Física,0,4,Sul,24,M,True,Comentário simulado 624
+625,2024-12-17 03:00:00,Site,9,3,Sudeste,47,M,True,Comentário simulado 625
+626,2024-12-23 12:00:00,Call Center,2,1,Nordeste,36,Outro,False,Comentário simulado 626
+627,2024-11-25 05:00:00,App,8,2,Sudeste,66,M,True,Comentário simulado 627
+628,2024-07-21 10:00:00,Site,6,4,Sudeste,42,F,True,Comentário simulado 628
+629,2024-09-29 16:00:00,Site,1,1,Sul,33,M,False,Comentário simulado 629
+630,2024-07-15 15:00:00,App,8,5,Nordeste,64,M,False,Comentário simulado 630
+631,2024-04-27 06:00:00,Site,9,2,Norte,57,Outro,True,Comentário simulado 631
+632,2024-05-20 14:00:00,Site,1,1,Norte,68,F,False,Comentário simulado 632
+633,2024-02-22 04:00:00,App,2,2,Centro-Oeste,25,M,True,Comentário simulado 633
+634,2024-10-18 12:00:00,App,10,2,Sudeste,35,F,True,Comentário simulado 634
+635,2024-07-13 17:00:00,App,9,3,Centro-Oeste,45,F,True,Comentário simulado 635
+636,2024-07-07 18:00:00,Call Center,1,2,Sul,33,F,False,Comentário simulado 636
+637,2024-10-13 17:00:00,App,2,3,Norte,69,Outro,True,Comentário simulado 637
+638,2024-10-16 13:00:00,App,5,4,Sudeste,36,M,True,Comentário simulado 638
+639,2024-09-17 01:00:00,Site,8,3,Sul,59,Outro,True,Comentário simulado 639
+640,2024-11-30 01:00:00,Loja Física,8,5,Sul,34,M,False,Comentário simulado 640
+641,2024-10-16 05:00:00,Site,6,1,Sudeste,62,M,True,Comentário simulado 641
+642,2024-10-18 18:00:00,Call Center,2,4,Sul,30,Outro,True,Comentário simulado 642
+643,2024-02-25 11:00:00,Loja Física,3,4,Sudeste,24,F,True,Comentário simulado 643
+644,2024-06-26 13:00:00,App,5,5,Sudeste,44,F,False,Comentário simulado 644
+645,2024-11-14 16:00:00,Site,10,3,Nordeste,27,M,False,Comentário simulado 645
+646,2024-08-01 03:00:00,Loja Física,4,1,Centro-Oeste,51,Outro,True,Comentário simulado 646
+647,2024-07-12 05:00:00,Loja Física,1,3,Sul,53,F,True,Comentário simulado 647
+648,2024-07-21 06:00:00,Site,5,2,Sul,42,F,False,Comentário simulado 648
+649,2024-05-12 09:00:00,Site,2,3,Nordeste,23,M,True,Comentário simulado 649
+650,2024-11-18 02:00:00,Loja Física,7,4,Nordeste,41,M,False,Comentário simulado 650
+651,2024-03-31 20:00:00,Site,1,1,Nordeste,35,Outro,False,Comentário simulado 651
+652,2024-07-22 20:00:00,Call Center,0,3,Norte,40,M,True,Comentário simulado 652
+653,2024-10-20 11:00:00,App,8,1,Norte,23,F,True,Comentário simulado 653
+654,2024-01-06 17:00:00,Site,2,1,Norte,46,F,True,Comentário simulado 654
+655,2024-09-20 15:00:00,Loja Física,10,2,Sudeste,42,F,True,Comentário simulado 655
+656,2024-05-24 16:00:00,Site,0,2,Sul,34,F,True,Comentário simulado 656
+657,2024-08-15 01:00:00,App,6,4,Centro-Oeste,63,Outro,True,Comentário simulado 657
+658,2024-04-28 00:00:00,Site,9,5,Sudeste,41,Outro,True,Comentário simulado 658
+659,2024-05-29 03:00:00,Site,4,1,Sul,28,M,True,Comentário simulado 659
+660,2024-09-05 19:00:00,App,4,5,Sul,43,M,True,Comentário simulado 660
+661,2024-06-22 12:00:00,App,0,4,Nordeste,68,M,True,Comentário simulado 661
+662,2024-11-26 21:00:00,App,8,1,Nordeste,51,Outro,False,Comentário simulado 662
+663,2024-08-20 01:00:00,Loja Física,6,1,Sudeste,45,F,True,Comentário simulado 663
+664,2024-06-28 04:00:00,App,7,5,Nordeste,20,M,False,Comentário simulado 664
+665,2024-09-18 05:00:00,Site,8,3,Sul,28,F,True,Comentário simulado 665
+666,2024-06-08 02:00:00,Site,5,2,Nordeste,55,M,True,Comentário simulado 666
+667,2024-03-20 10:00:00,Call Center,4,3,Norte,31,M,False,Comentário simulado 667
+668,2024-09-17 14:00:00,Loja Física,5,5,Nordeste,68,M,True,Comentário simulado 668
+669,2024-02-01 16:00:00,App,10,2,Sul,43,M,True,Comentário simulado 669
+670,2024-11-22 06:00:00,Site,1,3,Sudeste,65,M,True,Comentário simulado 670
+671,2024-11-02 06:00:00,Site,3,2,Centro-Oeste,38,F,True,Comentário simulado 671
+672,2024-09-16 22:00:00,Loja Física,2,1,Nordeste,56,M,True,Comentário simulado 672
+673,2024-09-10 18:00:00,Loja Física,6,3,Sul,47,F,True,Comentário simulado 673
+674,2024-09-08 07:00:00,App,8,2,Centro-Oeste,25,Outro,True,Comentário simulado 674
+675,2024-11-16 07:00:00,Loja Física,4,2,Centro-Oeste,68,M,True,Comentário simulado 675
+676,2024-12-19 00:00:00,Loja Física,5,2,Norte,37,F,True,Comentário simulado 676
+677,2024-03-19 15:00:00,Site,9,3,Centro-Oeste,65,Outro,True,Comentário simulado 677
+678,2024-05-16 02:00:00,App,1,4,Sul,49,Outro,True,Comentário simulado 678
+679,2024-01-28 18:00:00,Site,2,3,Sul,39,Outro,True,Comentário simulado 679
+680,2024-06-23 12:00:00,Site,2,5,Nordeste,24,F,False,Comentário simulado 680
+681,2024-01-28 23:00:00,Loja Física,8,3,Nordeste,26,M,True,Comentário simulado 681
+682,2024-10-09 09:00:00,App,6,2,Nordeste,62,M,True,Comentário simulado 682
+683,2024-11-11 10:00:00,App,7,1,Centro-Oeste,18,F,True,Comentário simulado 683
+684,2024-11-27 12:00:00,Site,10,3,Centro-Oeste,46,M,False,Comentário simulado 684
+685,2024-08-01 12:00:00,Site,9,3,Norte,25,F,True,Comentário simulado 685
+686,2024-08-20 17:00:00,Site,10,2,Nordeste,21,M,False,Comentário simulado 686
+687,2024-07-18 01:00:00,Site,8,1,Sudeste,52,Outro,True,Comentário simulado 687
+688,2024-06-11 12:00:00,App,5,1,Norte,20,M,True,Comentário simulado 688
+689,2024-10-05 05:00:00,Site,3,5,Sudeste,62,F,False,Comentário simulado 689
+690,2024-10-17 21:00:00,App,0,3,Centro-Oeste,57,F,True,Comentário simulado 690
+691,2024-09-22 16:00:00,Site,7,1,Norte,24,Outro,True,Comentário simulado 691
+692,2024-01-22 19:00:00,Site,6,1,Norte,44,F,False,Comentário simulado 692
+693,2024-04-09 17:00:00,Site,1,4,Sul,18,M,False,Comentário simulado 693
+694,2024-04-18 01:00:00,App,7,4,Centro-Oeste,44,M,True,Comentário simulado 694
+695,2024-10-28 16:00:00,App,4,1,Centro-Oeste,33,Outro,True,Comentário simulado 695
+696,2024-10-16 01:00:00,App,6,5,Norte,55,F,False,Comentário simulado 696
+697,2024-09-14 22:00:00,App,3,1,Centro-Oeste,24,Outro,True,Comentário simulado 697
+698,2024-08-06 08:00:00,Loja Física,4,2,Norte,61,M,False,Comentário simulado 698
+699,2024-09-27 13:00:00,Site,7,3,Sul,40,Outro,True,Comentário simulado 699
+700,2024-04-29 22:00:00,Site,0,5,Norte,58,F,True,Comentário simulado 700
+701,2024-06-21 15:00:00,Loja Física,0,2,Centro-Oeste,28,Outro,False,Comentário simulado 701
+702,2024-05-31 20:00:00,App,3,5,Centro-Oeste,59,F,True,Comentário simulado 702
+703,2024-07-03 16:00:00,Site,2,2,Norte,70,F,True,Comentário simulado 703
+704,2024-02-23 04:00:00,Call Center,9,3,Norte,50,M,True,Comentário simulado 704
+705,2024-08-30 03:00:00,Loja Física,1,3,Norte,67,M,True,Comentário simulado 705
+706,2024-01-13 14:00:00,Site,2,4,Nordeste,53,M,True,Comentário simulado 706
+707,2024-01-27 14:00:00,App,10,2,Centro-Oeste,54,F,False,Comentário simulado 707
+708,2024-01-03 07:00:00,App,10,4,Centro-Oeste,58,Outro,True,Comentário simulado 708
+709,2024-12-29 05:00:00,App,10,2,Nordeste,34,F,True,Comentário simulado 709
+710,2024-12-05 14:00:00,Site,0,4,Norte,52,M,False,Comentário simulado 710
+711,2024-03-29 13:00:00,Site,0,3,Sul,65,M,True,Comentário simulado 711
+712,2024-01-16 04:00:00,App,5,5,Norte,22,Outro,True,Comentário simulado 712
+713,2024-10-10 17:00:00,App,4,4,Norte,65,M,True,Comentário simulado 713
+714,2024-07-11 13:00:00,Loja Física,7,2,Nordeste,49,M,False,Comentário simulado 714
+715,2024-08-01 14:00:00,App,1,2,Centro-Oeste,20,M,True,Comentário simulado 715
+716,2024-08-01 10:00:00,Site,3,3,Norte,69,Outro,True,Comentário simulado 716
+717,2024-03-09 14:00:00,App,7,2,Centro-Oeste,64,F,True,Comentário simulado 717
+718,2024-02-08 06:00:00,Site,5,1,Sudeste,52,M,True,Comentário simulado 718
+719,2024-04-26 13:00:00,App,0,5,Centro-Oeste,69,Outro,True,Comentário simulado 719
+720,2024-09-28 02:00:00,App,3,4,Sul,31,M,True,Comentário simulado 720
+721,2024-09-01 14:00:00,Site,0,5,Sul,65,Outro,True,Comentário simulado 721
+722,2024-03-04 19:00:00,App,1,3,Norte,48,M,False,Comentário simulado 722
+723,2024-12-06 12:00:00,Site,4,4,Centro-Oeste,48,Outro,True,Comentário simulado 723
+724,2024-05-19 09:00:00,Site,7,4,Norte,34,M,True,Comentário simulado 724
+725,2024-11-15 17:00:00,Site,7,1,Nordeste,41,F,True,Comentário simulado 725
+726,2024-10-16 13:00:00,Site,10,3,Sul,69,M,True,Comentário simulado 726
+727,2024-10-13 18:00:00,Call Center,2,2,Norte,40,Outro,True,Comentário simulado 727
+728,2024-03-20 10:00:00,App,10,1,Nordeste,35,M,True,Comentário simulado 728
+729,2024-05-08 14:00:00,Site,3,1,Norte,67,F,True,Comentário simulado 729
+730,2024-12-05 16:00:00,App,9,5,Centro-Oeste,31,M,False,Comentário simulado 730
+731,2024-08-27 14:00:00,Site,10,5,Centro-Oeste,67,Outro,True,Comentário simulado 731
+732,2024-02-14 06:00:00,Call Center,5,5,Centro-Oeste,32,Outro,True,Comentário simulado 732
+733,2024-03-23 08:00:00,App,10,1,Centro-Oeste,32,F,True,Comentário simulado 733
+734,2024-02-24 00:00:00,Loja Física,10,2,Sudeste,23,Outro,True,Comentário simulado 734
+735,2024-09-16 13:00:00,Site,9,4,Nordeste,44,M,True,Comentário simulado 735
+736,2024-11-14 09:00:00,App,2,5,Nordeste,32,M,True,Comentário simulado 736
+737,2024-01-06 05:00:00,App,1,2,Centro-Oeste,67,M,True,Comentário simulado 737
+738,2024-07-12 00:00:00,Loja Física,5,3,Sudeste,53,Outro,False,Comentário simulado 738
+739,2024-09-19 00:00:00,Site,10,5,Centro-Oeste,25,M,True,Comentário simulado 739
+740,2024-05-29 20:00:00,Site,4,4,Sudeste,32,M,True,Comentário simulado 740
+741,2024-09-14 00:00:00,Call Center,9,3,Centro-Oeste,20,M,True,Comentário simulado 741
+742,2024-11-11 01:00:00,App,4,3,Sul,64,F,True,Comentário simulado 742
+743,2024-12-10 02:00:00,Site,9,4,Sul,30,Outro,True,Comentário simulado 743
+744,2024-01-10 16:00:00,Site,4,5,Norte,58,Outro,False,Comentário simulado 744
+745,2024-09-22 11:00:00,Call Center,9,1,Centro-Oeste,51,Outro,True,Comentário simulado 745
+746,2024-06-24 06:00:00,Site,4,4,Nordeste,41,F,False,Comentário simulado 746
+747,2024-11-26 23:00:00,Loja Física,2,4,Norte,57,Outro,False,Comentário simulado 747
+748,2024-10-14 03:00:00,Loja Física,6,4,Sul,49,F,True,Comentário simulado 748
+749,2024-10-07 18:00:00,Site,5,3,Centro-Oeste,49,F,True,Comentário simulado 749
+750,2024-04-13 00:00:00,App,3,2,Norte,47,Outro,True,Comentário simulado 750
+751,2024-04-24 03:00:00,Site,1,1,Centro-Oeste,69,M,True,Comentário simulado 751
+752,2024-08-13 01:00:00,Site,8,5,Sul,66,M,False,Comentário simulado 752
+753,2024-03-14 09:00:00,Loja Física,0,5,Norte,30,Outro,True,Comentário simulado 753
+754,2024-02-06 12:00:00,Loja Física,10,2,Sul,18,Outro,False,Comentário simulado 754
+755,2024-06-07 20:00:00,App,3,4,Sudeste,51,F,True,Comentário simulado 755
+756,2024-03-01 20:00:00,App,0,1,Sul,32,Outro,False,Comentário simulado 756
+757,2024-03-13 05:00:00,Site,5,5,Centro-Oeste,61,F,False,Comentário simulado 757
+758,2024-03-07 21:00:00,Site,3,5,Nordeste,31,Outro,True,Comentário simulado 758
+759,2024-08-22 06:00:00,Site,4,4,Sul,46,M,True,Comentário simulado 759
+760,2024-10-08 23:00:00,Site,4,2,Nordeste,51,M,True,Comentário simulado 760
+761,2024-10-18 02:00:00,Site,8,1,Sudeste,35,Outro,False,Comentário simulado 761
+762,2024-05-26 13:00:00,Site,0,2,Norte,24,F,False,Comentário simulado 762
+763,2024-06-04 15:00:00,Site,1,2,Norte,46,M,False,Comentário simulado 763
+764,2024-12-17 10:00:00,Site,5,1,Nordeste,48,F,True,Comentário simulado 764
+765,2024-04-17 22:00:00,App,4,1,Norte,42,Outro,True,Comentário simulado 765
+766,2024-02-14 07:00:00,Loja Física,10,5,Sul,55,Outro,False,Comentário simulado 766
+767,2024-06-29 04:00:00,Site,6,5,Nordeste,31,M,True,Comentário simulado 767
+768,2024-08-10 14:00:00,Call Center,2,1,Centro-Oeste,25,Outro,False,Comentário simulado 768
+769,2024-01-01 05:00:00,Loja Física,2,3,Sul,44,M,True,Comentário simulado 769
+770,2024-11-08 01:00:00,Site,9,5,Sul,19,F,True,Comentário simulado 770
+771,2024-12-26 19:00:00,Loja Física,1,3,Sul,34,M,True,Comentário simulado 771
+772,2024-12-07 11:00:00,App,2,1,Centro-Oeste,54,M,True,Comentário simulado 772
+773,2024-09-05 14:00:00,App,9,5,Sudeste,31,F,True,Comentário simulado 773
+774,2024-01-05 21:00:00,Site,0,2,Norte,42,M,True,Comentário simulado 774
+775,2024-04-16 07:00:00,App,4,1,Nordeste,47,M,True,Comentário simulado 775
+776,2024-08-19 16:00:00,Site,4,4,Sudeste,46,Outro,True,Comentário simulado 776
+777,2024-06-27 17:00:00,App,10,3,Nordeste,37,F,True,Comentário simulado 777
+778,2024-02-05 06:00:00,App,6,1,Norte,38,M,False,Comentário simulado 778
+779,2024-09-20 04:00:00,App,3,1,Centro-Oeste,70,F,False,Comentário simulado 779
+780,2024-09-26 13:00:00,App,2,5,Sul,39,F,False,Comentário simulado 780
+781,2024-01-10 08:00:00,Loja Física,0,5,Sul,52,M,False,Comentário simulado 781
+782,2024-06-24 08:00:00,Site,7,5,Centro-Oeste,54,Outro,True,Comentário simulado 782
+783,2024-09-18 19:00:00,Site,2,4,Sudeste,33,F,True,Comentário simulado 783
+784,2024-03-26 08:00:00,Loja Física,1,5,Sudeste,67,M,True,Comentário simulado 784
+785,2024-09-16 17:00:00,Site,10,1,Nordeste,66,F,False,Comentário simulado 785
+786,2024-03-17 04:00:00,Site,3,5,Centro-Oeste,60,Outro,True,Comentário simulado 786
+787,2024-03-20 21:00:00,Site,2,2,Sudeste,34,Outro,True,Comentário simulado 787
+788,2024-06-25 10:00:00,Site,0,5,Centro-Oeste,33,Outro,False,Comentário simulado 788
+789,2024-10-18 04:00:00,Call Center,2,4,Norte,19,M,True,Comentário simulado 789
+790,2024-03-25 10:00:00,App,1,2,Sul,21,M,True,Comentário simulado 790
+791,2024-06-05 00:00:00,Call Center,7,1,Sul,38,Outro,True,Comentário simulado 791
+792,2024-01-01 09:00:00,App,5,1,Sul,56,M,True,Comentário simulado 792
+793,2024-01-11 20:00:00,App,8,3,Centro-Oeste,51,Outro,True,Comentário simulado 793
+794,2024-09-08 14:00:00,Site,7,2,Centro-Oeste,47,M,True,Comentário simulado 794
+795,2024-04-02 11:00:00,App,9,3,Nordeste,23,Outro,True,Comentário simulado 795
+796,2024-10-20 09:00:00,Site,2,2,Sul,34,F,True,Comentário simulado 796
+797,2024-03-26 20:00:00,Loja Física,4,2,Nordeste,56,Outro,False,Comentário simulado 797
+798,2024-08-08 07:00:00,Loja Física,6,4,Sul,42,Outro,False,Comentário simulado 798
+799,2024-03-08 11:00:00,Site,4,3,Nordeste,22,M,True,Comentário simulado 799
+800,2024-12-20 16:00:00,Call Center,7,4,Nordeste,22,M,False,Comentário simulado 800
+801,2024-02-25 22:00:00,Loja Física,4,2,Norte,37,M,True,Comentário simulado 801
+802,2024-04-28 00:00:00,App,0,1,Nordeste,33,M,True,Comentário simulado 802
+803,2024-04-27 16:00:00,Site,4,2,Centro-Oeste,68,M,True,Comentário simulado 803
+804,2024-03-24 02:00:00,App,3,4,Nordeste,58,M,True,Comentário simulado 804
+805,2024-05-25 10:00:00,App,5,3,Sul,54,F,True,Comentário simulado 805
+806,2024-11-28 16:00:00,Site,2,3,Nordeste,57,Outro,True,Comentário simulado 806
+807,2024-03-07 20:00:00,Site,10,4,Sudeste,26,Outro,True,Comentário simulado 807
+808,2024-01-10 19:00:00,Loja Física,4,3,Sul,22,Outro,False,Comentário simulado 808
+809,2024-03-20 12:00:00,Site,1,5,Sudeste,59,F,True,Comentário simulado 809
+810,2024-12-22 23:00:00,App,10,1,Sul,19,Outro,True,Comentário simulado 810
+811,2024-05-27 02:00:00,Call Center,5,1,Centro-Oeste,26,F,True,Comentário simulado 811
+812,2024-08-07 00:00:00,Loja Física,5,1,Centro-Oeste,60,F,True,Comentário simulado 812
+813,2024-04-19 19:00:00,Site,4,3,Centro-Oeste,53,F,True,Comentário simulado 813
+814,2024-12-06 02:00:00,Loja Física,5,3,Sudeste,39,Outro,True,Comentário simulado 814
+815,2024-04-16 16:00:00,Site,10,2,Norte,39,F,True,Comentário simulado 815
+816,2024-08-13 15:00:00,Site,6,2,Sul,39,Outro,False,Comentário simulado 816
+817,2024-05-21 07:00:00,App,4,1,Centro-Oeste,51,Outro,True,Comentário simulado 817
+818,2024-09-04 23:00:00,Site,0,5,Sul,46,M,False,Comentário simulado 818
+819,2024-08-15 20:00:00,Site,7,2,Sudeste,55,M,True,Comentário simulado 819
+820,2024-11-29 15:00:00,App,3,2,Norte,63,F,True,Comentário simulado 820
+821,2024-09-24 05:00:00,Site,8,3,Sudeste,50,F,True,Comentário simulado 821
+822,2024-10-16 05:00:00,Site,9,5,Sul,35,Outro,True,Comentário simulado 822
+823,2024-07-19 20:00:00,App,5,1,Norte,24,F,True,Comentário simulado 823
+824,2024-04-30 18:00:00,Loja Física,0,2,Norte,18,F,True,Comentário simulado 824
+825,2024-11-10 10:00:00,App,2,5,Sudeste,50,Outro,False,Comentário simulado 825
+826,2024-01-04 05:00:00,Site,2,5,Centro-Oeste,18,F,False,Comentário simulado 826
+827,2024-11-11 17:00:00,App,9,1,Sul,41,F,True,Comentário simulado 827
+828,2024-06-25 03:00:00,Site,3,5,Nordeste,21,Outro,True,Comentário simulado 828
+829,2024-01-26 00:00:00,Site,5,5,Nordeste,21,Outro,True,Comentário simulado 829
+830,2024-02-14 09:00:00,Loja Física,6,5,Sudeste,35,M,True,Comentário simulado 830
+831,2024-03-30 00:00:00,Site,9,2,Sul,44,Outro,False,Comentário simulado 831
+832,2024-10-16 07:00:00,Site,3,1,Sul,60,M,False,Comentário simulado 832
+833,2024-11-21 04:00:00,App,5,5,Sudeste,49,F,False,Comentário simulado 833
+834,2024-09-30 13:00:00,App,10,5,Sul,50,Outro,True,Comentário simulado 834
+835,2024-09-06 08:00:00,App,0,2,Centro-Oeste,45,Outro,True,Comentário simulado 835
+836,2024-08-02 06:00:00,Site,7,1,Sudeste,59,Outro,True,Comentário simulado 836
+837,2024-07-13 14:00:00,Site,6,3,Centro-Oeste,58,F,False,Comentário simulado 837
+838,2024-04-01 06:00:00,Site,10,2,Sul,53,M,True,Comentário simulado 838
+839,2024-04-23 00:00:00,Site,10,1,Sudeste,23,F,True,Comentário simulado 839
+840,2024-04-01 08:00:00,App,8,5,Sul,33,F,True,Comentário simulado 840
+841,2024-02-22 00:00:00,Loja Física,2,1,Sudeste,51,Outro,False,Comentário simulado 841
+842,2024-06-17 01:00:00,Loja Física,1,1,Sul,40,M,True,Comentário simulado 842
+843,2024-03-24 05:00:00,Loja Física,0,1,Centro-Oeste,67,F,True,Comentário simulado 843
+844,2024-06-02 15:00:00,App,2,3,Centro-Oeste,59,Outro,False,Comentário simulado 844
+845,2024-06-16 10:00:00,App,4,1,Sul,41,F,False,Comentário simulado 845
+846,2024-03-23 02:00:00,Site,10,3,Sudeste,66,F,True,Comentário simulado 846
+847,2024-12-15 13:00:00,App,1,5,Nordeste,30,Outro,True,Comentário simulado 847
+848,2024-08-28 05:00:00,App,2,3,Centro-Oeste,35,Outro,False,Comentário simulado 848
+849,2024-02-20 02:00:00,Site,3,5,Centro-Oeste,30,M,False,Comentário simulado 849
+850,2024-12-04 23:00:00,Site,6,5,Nordeste,66,F,True,Comentário simulado 850
+851,2024-08-19 23:00:00,Call Center,2,3,Sul,54,Outro,True,Comentário simulado 851
+852,2024-11-15 11:00:00,Site,8,2,Sudeste,60,Outro,True,Comentário simulado 852
+853,2024-08-27 06:00:00,Site,7,4,Sul,56,M,False,Comentário simulado 853
+854,2024-08-29 04:00:00,App,3,1,Norte,59,M,True,Comentário simulado 854
+855,2024-08-13 08:00:00,Loja Física,0,4,Centro-Oeste,34,Outro,True,Comentário simulado 855
+856,2024-12-27 05:00:00,App,0,1,Norte,32,M,True,Comentário simulado 856
+857,2024-02-08 10:00:00,App,0,1,Centro-Oeste,35,Outro,False,Comentário simulado 857
+858,2024-01-18 11:00:00,Site,0,5,Centro-Oeste,40,F,True,Comentário simulado 858
+859,2024-04-01 20:00:00,App,7,1,Norte,68,M,True,Comentário simulado 859
+860,2024-02-16 16:00:00,Site,2,1,Norte,47,F,True,Comentário simulado 860
+861,2024-02-09 14:00:00,Loja Física,5,3,Sul,51,F,True,Comentário simulado 861
+862,2024-04-07 08:00:00,App,2,4,Norte,21,F,True,Comentário simulado 862
+863,2024-08-11 21:00:00,Site,10,3,Sul,20,Outro,False,Comentário simulado 863
+864,2024-04-03 11:00:00,Site,4,1,Sul,24,F,True,Comentário simulado 864
+865,2024-04-20 05:00:00,Site,6,5,Sul,35,F,False,Comentário simulado 865
+866,2024-07-11 04:00:00,Site,1,3,Centro-Oeste,59,F,True,Comentário simulado 866
+867,2024-03-18 17:00:00,Site,5,3,Centro-Oeste,24,Outro,True,Comentário simulado 867
+868,2024-09-08 04:00:00,App,5,2,Norte,57,F,True,Comentário simulado 868
+869,2024-11-01 06:00:00,App,10,1,Centro-Oeste,23,F,True,Comentário simulado 869
+870,2024-09-22 11:00:00,Site,2,5,Norte,39,M,True,Comentário simulado 870
+871,2024-09-21 23:00:00,Site,5,3,Centro-Oeste,18,Outro,False,Comentário simulado 871
+872,2024-11-23 15:00:00,Site,9,3,Sudeste,21,F,False,Comentário simulado 872
+873,2024-05-14 12:00:00,Loja Física,9,5,Sudeste,63,M,True,Comentário simulado 873
+874,2024-06-03 23:00:00,Site,4,1,Norte,66,Outro,False,Comentário simulado 874
+875,2024-04-08 19:00:00,App,1,2,Centro-Oeste,69,Outro,True,Comentário simulado 875
+876,2024-04-30 11:00:00,Loja Física,8,3,Centro-Oeste,67,Outro,False,Comentário simulado 876
+877,2024-06-05 12:00:00,App,7,2,Sul,60,Outro,True,Comentário simulado 877
+878,2024-06-25 01:00:00,Loja Física,2,4,Nordeste,46,Outro,True,Comentário simulado 878
+879,2024-01-04 22:00:00,Site,7,1,Norte,38,Outro,False,Comentário simulado 879
+880,2024-04-21 10:00:00,Call Center,8,4,Nordeste,43,F,True,Comentário simulado 880
+881,2024-10-14 10:00:00,Site,2,4,Nordeste,31,F,True,Comentário simulado 881
+882,2024-02-03 01:00:00,Site,2,4,Norte,26,F,True,Comentário simulado 882
+883,2024-03-29 04:00:00,App,1,1,Centro-Oeste,64,F,True,Comentário simulado 883
+884,2024-08-28 19:00:00,Call Center,7,1,Norte,29,M,False,Comentário simulado 884
+885,2024-09-13 22:00:00,Loja Física,9,5,Nordeste,59,F,True,Comentário simulado 885
+886,2024-02-03 22:00:00,Site,0,2,Centro-Oeste,68,Outro,False,Comentário simulado 886
+887,2024-01-15 09:00:00,Site,7,2,Sudeste,68,F,True,Comentário simulado 887
+888,2024-12-22 10:00:00,Call Center,6,5,Norte,23,F,True,Comentário simulado 888
+889,2024-04-11 19:00:00,Site,6,5,Norte,37,Outro,False,Comentário simulado 889
+890,2024-11-20 07:00:00,Loja Física,2,4,Centro-Oeste,41,F,True,Comentário simulado 890
+891,2024-02-11 00:00:00,Loja Física,0,5,Sudeste,44,F,False,Comentário simulado 891
+892,2024-11-20 14:00:00,App,3,3,Sudeste,55,F,True,Comentário simulado 892
+893,2024-02-04 11:00:00,Site,8,2,Centro-Oeste,25,M,True,Comentário simulado 893
+894,2024-05-27 03:00:00,App,4,5,Sul,18,F,True,Comentário simulado 894
+895,2024-10-24 19:00:00,Site,0,3,Norte,66,Outro,True,Comentário simulado 895
+896,2024-07-04 11:00:00,Loja Física,4,3,Norte,66,Outro,True,Comentário simulado 896
+897,2024-06-10 12:00:00,App,7,3,Nordeste,41,F,False,Comentário simulado 897
+898,2024-09-05 07:00:00,Loja Física,7,3,Centro-Oeste,64,F,True,Comentário simulado 898
+899,2024-01-06 06:00:00,Site,4,4,Nordeste,24,F,True,Comentário simulado 899
+900,2024-05-12 09:00:00,Call Center,8,3,Nordeste,36,Outro,True,Comentário simulado 900
+901,2024-09-08 00:00:00,App,0,4,Sudeste,39,Outro,True,Comentário simulado 901
+902,2024-07-31 21:00:00,Site,3,4,Norte,52,M,True,Comentário simulado 902
+903,2024-06-21 18:00:00,Site,2,3,Nordeste,47,M,False,Comentário simulado 903
+904,2024-10-26 20:00:00,Loja Física,1,2,Sudeste,46,M,False,Comentário simulado 904
+905,2024-05-20 08:00:00,App,7,3,Centro-Oeste,39,Outro,False,Comentário simulado 905
+906,2024-06-07 05:00:00,Loja Física,6,3,Nordeste,28,M,False,Comentário simulado 906
+907,2024-03-15 16:00:00,Site,8,3,Norte,37,F,True,Comentário simulado 907
+908,2024-08-26 20:00:00,Site,1,2,Nordeste,46,F,False,Comentário simulado 908
+909,2024-05-24 20:00:00,App,3,1,Centro-Oeste,68,Outro,True,Comentário simulado 909
+910,2024-05-22 09:00:00,Site,5,1,Nordeste,58,M,True,Comentário simulado 910
+911,2024-03-09 13:00:00,App,10,4,Norte,59,F,True,Comentário simulado 911
+912,2024-05-06 06:00:00,Call Center,2,4,Sudeste,51,Outro,True,Comentário simulado 912
+913,2024-04-29 16:00:00,Call Center,7,2,Norte,18,M,False,Comentário simulado 913
+914,2024-05-08 00:00:00,Call Center,2,5,Sudeste,48,F,True,Comentário simulado 914
+915,2024-03-18 06:00:00,Loja Física,1,1,Sul,47,M,False,Comentário simulado 915
+916,2024-06-16 13:00:00,Site,2,4,Norte,65,Outro,True,Comentário simulado 916
+917,2024-07-13 06:00:00,App,10,1,Norte,35,M,True,Comentário simulado 917
+918,2024-09-28 10:00:00,App,5,2,Centro-Oeste,34,Outro,False,Comentário simulado 918
+919,2024-07-28 15:00:00,Loja Física,1,2,Nordeste,55,M,True,Comentário simulado 919
+920,2024-04-22 20:00:00,Site,7,5,Sudeste,31,F,True,Comentário simulado 920
+921,2024-10-23 08:00:00,App,0,5,Sudeste,40,Outro,True,Comentário simulado 921
+922,2024-12-15 17:00:00,Site,6,2,Centro-Oeste,42,Outro,True,Comentário simulado 922
+923,2024-05-26 03:00:00,App,1,4,Centro-Oeste,32,Outro,True,Comentário simulado 923
+924,2024-09-26 00:00:00,Loja Física,9,1,Nordeste,63,M,True,Comentário simulado 924
+925,2024-06-24 12:00:00,Loja Física,5,3,Nordeste,39,M,False,Comentário simulado 925
+926,2024-11-28 02:00:00,Site,1,5,Norte,20,F,False,Comentário simulado 926
+927,2024-01-23 08:00:00,Call Center,1,3,Sul,36,Outro,False,Comentário simulado 927
+928,2024-03-08 17:00:00,App,9,4,Nordeste,61,Outro,False,Comentário simulado 928
+929,2024-11-28 05:00:00,Site,7,5,Centro-Oeste,51,M,True,Comentário simulado 929
+930,2024-12-23 09:00:00,Site,1,3,Nordeste,52,M,True,Comentário simulado 930
+931,2024-12-02 06:00:00,Site,6,4,Sudeste,67,F,True,Comentário simulado 931
+932,2024-12-27 02:00:00,Site,2,1,Sul,18,F,True,Comentário simulado 932
+933,2024-12-24 17:00:00,Call Center,7,4,Norte,69,M,False,Comentário simulado 933
+934,2024-09-27 10:00:00,App,6,5,Sudeste,38,Outro,True,Comentário simulado 934
+935,2024-05-30 00:00:00,Loja Física,7,2,Sudeste,46,F,True,Comentário simulado 935
+936,2024-10-09 15:00:00,Site,6,1,Sul,23,M,True,Comentário simulado 936
+937,2024-07-26 03:00:00,Site,10,3,Norte,54,M,True,Comentário simulado 937
+938,2024-02-20 05:00:00,App,5,5,Centro-Oeste,18,Outro,True,Comentário simulado 938
+939,2024-03-23 22:00:00,Site,6,2,Norte,68,M,True,Comentário simulado 939
+940,2024-08-08 19:00:00,App,4,4,Nordeste,18,M,True,Comentário simulado 940
+941,2024-05-28 20:00:00,Call Center,6,2,Sudeste,44,F,True,Comentário simulado 941
+942,2024-09-05 23:00:00,App,0,5,Nordeste,38,M,True,Comentário simulado 942
+943,2024-09-20 08:00:00,App,0,5,Centro-Oeste,70,M,True,Comentário simulado 943
+944,2024-07-01 12:00:00,Site,8,2,Nordeste,33,F,False,Comentário simulado 944
+945,2024-07-17 05:00:00,Site,4,4,Norte,61,Outro,True,Comentário simulado 945
+946,2024-04-23 01:00:00,Site,4,2,Nordeste,57,Outro,True,Comentário simulado 946
+947,2024-08-20 20:00:00,App,2,5,Centro-Oeste,43,F,False,Comentário simulado 947
+948,2024-02-10 06:00:00,Site,4,5,Centro-Oeste,33,F,True,Comentário simulado 948
+949,2024-07-25 00:00:00,Site,2,3,Centro-Oeste,45,Outro,False,Comentário simulado 949
+950,2024-05-23 00:00:00,App,8,3,Norte,18,Outro,False,Comentário simulado 950
+951,2024-01-29 16:00:00,Site,8,1,Centro-Oeste,53,Outro,True,Comentário simulado 951
+952,2024-06-25 19:00:00,Site,5,5,Sudeste,27,Outro,False,Comentário simulado 952
+953,2024-06-03 05:00:00,Site,0,3,Centro-Oeste,60,Outro,False,Comentário simulado 953
+954,2024-12-21 13:00:00,Call Center,6,2,Nordeste,34,F,True,Comentário simulado 954
+955,2024-08-03 22:00:00,App,6,4,Nordeste,40,M,True,Comentário simulado 955
+956,2024-10-06 08:00:00,App,9,2,Nordeste,24,Outro,False,Comentário simulado 956
+957,2024-07-03 06:00:00,Site,9,4,Norte,61,Outro,False,Comentário simulado 957
+958,2024-03-14 07:00:00,Call Center,3,3,Nordeste,70,M,True,Comentário simulado 958
+959,2024-04-13 10:00:00,App,7,1,Norte,24,M,True,Comentário simulado 959
+960,2024-12-01 18:00:00,Site,5,2,Norte,61,M,False,Comentário simulado 960
+961,2024-02-09 15:00:00,Loja Física,3,2,Centro-Oeste,32,M,True,Comentário simulado 961
+962,2024-03-27 15:00:00,Site,3,2,Sudeste,51,M,True,Comentário simulado 962
+963,2024-04-23 05:00:00,App,1,4,Centro-Oeste,63,M,False,Comentário simulado 963
+964,2024-07-07 12:00:00,App,1,3,Centro-Oeste,62,F,True,Comentário simulado 964
+965,2024-12-19 05:00:00,Site,3,2,Norte,21,M,True,Comentário simulado 965
+966,2024-10-31 15:00:00,Call Center,4,2,Norte,31,M,False,Comentário simulado 966
+967,2024-10-26 10:00:00,Loja Física,7,1,Nordeste,31,F,False,Comentário simulado 967
+968,2024-03-27 01:00:00,App,5,1,Nordeste,33,M,True,Comentário simulado 968
+969,2024-02-02 00:00:00,Site,3,3,Centro-Oeste,24,Outro,True,Comentário simulado 969
+970,2024-08-16 18:00:00,Site,10,3,Sul,49,Outro,True,Comentário simulado 970
+971,2024-10-03 21:00:00,Site,6,5,Sul,36,M,False,Comentário simulado 971
+972,2024-07-30 19:00:00,Loja Física,7,1,Nordeste,19,F,True,Comentário simulado 972
+973,2024-08-06 00:00:00,Site,1,5,Sul,27,Outro,True,Comentário simulado 973
+974,2024-08-29 13:00:00,App,6,4,Nordeste,67,F,True,Comentário simulado 974
+975,2024-07-24 06:00:00,Loja Física,1,5,Norte,34,Outro,False,Comentário simulado 975
+976,2024-09-07 16:00:00,Site,1,2,Centro-Oeste,54,M,True,Comentário simulado 976
+977,2024-05-18 23:00:00,App,7,5,Sudeste,29,F,True,Comentário simulado 977
+978,2024-11-30 22:00:00,Site,1,3,Centro-Oeste,23,F,True,Comentário simulado 978
+979,2024-07-22 01:00:00,Call Center,10,4,Nordeste,39,F,False,Comentário simulado 979
+980,2024-03-02 17:00:00,App,8,2,Nordeste,49,Outro,True,Comentário simulado 980
+981,2024-09-19 17:00:00,Site,0,5,Centro-Oeste,58,Outro,True,Comentário simulado 981
+982,2024-05-23 19:00:00,Site,8,4,Nordeste,37,Outro,True,Comentário simulado 982
+983,2024-01-03 06:00:00,App,0,4,Sul,18,M,False,Comentário simulado 983
+984,2024-11-14 11:00:00,Loja Física,9,2,Sul,64,Outro,True,Comentário simulado 984
+985,2024-05-24 06:00:00,Loja Física,9,5,Nordeste,70,M,True,Comentário simulado 985
+986,2024-02-04 16:00:00,App,1,4,Nordeste,23,F,True,Comentário simulado 986
+987,2024-09-05 02:00:00,Site,5,4,Sul,36,F,False,Comentário simulado 987
+988,2024-12-20 23:00:00,Site,5,1,Nordeste,35,M,True,Comentário simulado 988
+989,2024-10-27 21:00:00,Site,0,4,Nordeste,23,Outro,False,Comentário simulado 989
+990,2024-05-17 22:00:00,App,6,1,Centro-Oeste,62,M,False,Comentário simulado 990
+991,2024-05-17 12:00:00,Loja Física,7,5,Sudeste,50,F,True,Comentário simulado 991
+992,2024-10-07 02:00:00,App,1,5,Sul,40,F,True,Comentário simulado 992
+993,2024-10-27 18:00:00,Site,7,5,Centro-Oeste,40,M,True,Comentário simulado 993
+994,2024-11-20 00:00:00,App,8,3,Sudeste,43,Outro,True,Comentário simulado 994
+995,2024-06-02 03:00:00,Loja Física,5,5,Nordeste,30,Outro,True,Comentário simulado 995
+996,2024-05-07 06:00:00,Loja Física,4,4,Nordeste,24,M,True,Comentário simulado 996
+997,2024-11-28 02:00:00,Loja Física,8,2,Centro-Oeste,32,M,False,Comentário simulado 997
+998,2024-03-30 07:00:00,Site,10,1,Nordeste,61,Outro,True,Comentário simulado 998
+999,2024-08-04 23:00:00,Site,8,3,Norte,44,F,False,Comentário simulado 999
+1000,2024-04-15 18:00:00,Loja Física,0,5,Centro-Oeste,43,M,True,Comentário simulado 1000
