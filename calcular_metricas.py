@@ -8,7 +8,7 @@ DATABASE_URL = "postgresql://postgres.[SEU POOLER]:[SUA SENHA]@aws-1-us-east-2.p
 # Pasta de saída
 PASTA_DADOS = "C:/Users/BLUE SKY INFORMATICA/Downloads/data"
 
-print("---  INICIANDO CÁLCULO DE MÉTRICAS (VERSÃO CORRIGIDA) ---")
+print("---  INICIANDO CÁLCULO DE MÉTRICAS  ---")
 
 try:
     engine = create_engine(DATABASE_URL)
