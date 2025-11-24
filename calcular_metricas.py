@@ -3,7 +3,7 @@ from sqlalchemy import create_engine, text
 import os
 
 
-DATABASE_URL = "postgresql://postgres.qyljbhyijlxuandwiequ:[SUA SENHA]@aws-1-us-east-2.pooler.supabase.com:6543/postgres"
+DATABASE_URL = "postgresql://postgres.[SEU POOLER]:[SUA SENHA]@aws-1-us-east-2.pooler.supabase.com:6543/postgres"
 
 # Pasta de saída
 PASTA_DADOS = "C:/Users/BLUE SKY INFORMATICA/Downloads/data"
