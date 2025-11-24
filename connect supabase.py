@@ -9,7 +9,7 @@ DATABASE_URL = "postgresql://postgres.[SEU POOLER]:[SUA SENHA]@aws-1-us-east-2.p
 # Caminho do CSV
 CAMINHO_CSV = "C:/Users/BLUE SKY INFORMATICA/Downloads/data/pesquisa_bruta.csv"
 
-print("--- INICIANDO CARGA (MODO FORÇADO COM LIMPEZA) ---")
+print("--- INICIANDO CARGA ---")
 
 # 1. Testar Conexão
 try:
