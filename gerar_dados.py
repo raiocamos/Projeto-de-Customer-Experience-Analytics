@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import os
 
 
-CAMINHO_ARQUIVO = "C:/Users/BLUE SKY INFORMATICA/Downloads/data/pesquisa_bruta.csv"
+CAMINHO_ARQUIVO = "CAMINHO DO ARQUIVO"
 
 print(f"Tentando salvar em: {CAMINHO_ARQUIVO}")
 
